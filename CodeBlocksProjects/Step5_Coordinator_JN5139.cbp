@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Step5_Coordinator" />
+		<Option pch_mode="2" />
+		<Option compiler="jn51xx_compiler" />
+		<Build>
+			<Target title="Release">
+				<Option output="..\Step5_Coordinator\Build\Coordinator_JN5139.exe" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="..\Step5_Coordinator\Build" />
+				<Option object_output="..\Step5_Coordinator\Build\.objs" />
+				<Option type="1" />
+				<Option compiler="jn51xx_compiler" />
+				<ExtraCommands>
+					<Add after="cp ..\Step5_Coordinator\Build\Coordinator_JN5139.exe ..\Step5_Coordinator\Build\Coordinator_JN5139.elf" />
+					<Add after="ba-elf-objcopy -S -O binary ..\Step5_Coordinator\Build\Coordinator_JN5139.elf ..\Step5_Coordinator\Build\Coordinator_JN5139.bin" />
+					<Add after="ba-elf-size ..\Step5_Coordinator\Build\Coordinator_JN5139.elf" />
+				</ExtraCommands>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Os" />
+			<Add option="-Wall" />
+			<Add option="-I." />
+			<Add option="-fomit-frame-pointer" />
+			<Add option="-msibcall" />
+			<Add option="-mno-entri" />
+			<Add option="-mno-multi" />
+			<Add option="-mno-setcc" />
+			<Add option="-mno-cmov" />
+			<Add option="-mno-carry" />
+			<Add option="-mno-subb" />
+			<Add option="-mno-sext" />
+			<Add option="-mno-ror" />
+			<Add option="-mno-ff1" />
+			<Add option="-mno-hard-div" />
+			<Add option="-mhard-mul" />
+			<Add option="-mbranch-cost=3" />
+			<Add option="-msimple-mul" />
+			<Add option="-mabi=1" />
+			<Add option="-march=ba1" />
+			<Add option="-mredzone-size=4" />
+			<Add option="-fdata-sections" />
+			<Add option="-ffunction-sections" />
+			<Add option="-DOR1K" />
+			<Add option="-DEMBEDDED" />
+			<Add option="-DLEAN_N_MEAN" />
+			<Add option="-DSINGLE_CONTEXT" />
+			<Add option="-DJN513x" />
+			<Add option="-DStep5_Coordinator" />
+			<Add directory="..\..\..\..\SDK\Common\Include" />
+			<Add directory="..\..\..\..\SDK\Chip\Common\Include" />
+			<Add directory="..\..\..\..\SDK\Chip\JN513x\Include" />
+			<Add directory="..\..\..\..\SDK\Platform\DK2\Include" />
+			<Add directory="..\..\..\Jenie\Include" />
+			<Add directory="..\Step5_Common\Source" />
+		</Compiler>
+		<Linker>
+			<Add option="-TAppBuild_JN5139.ld" />
+			<Add option="--gc-sections" />
+			<Add option="-u_AppColdStart" />
+			<Add option="-u_AppWarmStart" />
+			<Add option="-Map ..\Step5_Coordinator\Build\Coordinator_JN5139.map" />
+			<Add library="..\..\..\Jenie\Library\Jenie_TreeCRLib.a" />
+			<Add library="..\..\..\Platform\DK2\Library\BoardLib_JN513x.a" />
+			<Add library="..\..\..\Common\Library\libgcc.a" />
+			<Add library="..\..\..\Common\Library\libc.a" />
+			<Add library="..\..\..\..\SDK\Chip\JN513x\Library\ChipLib.a" />
+			<Add directory="..\..\..\..\SDK\Chip\JN513x\Build" />
+		</Linker>
+		<Unit filename="..\Step5_Common\Source\App.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\Step5_Common\Source\App.h" />
+		<Unit filename="..\Step5_Coordinator\Source\Coordinator.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\..\..\Chip\Common\Include\Printf.h" />
+		<Unit filename="..\..\..\Chip\Common\Source\Printf.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

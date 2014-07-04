@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="JN-AN-1085-JenNet-Tutorial">
+		<Project filename="Step1_Coordinator_JN5139.cbp" active="1" />
+		<Project filename="Step2_Coordinator_JN5139.cbp" />
+		<Project filename="Step3_Coordinator_JN5139.cbp" />
+		<Project filename="Step3_Router_JN5139.cbp" />
+		<Project filename="Step4_Coordinator_JN5139.cbp" />
+		<Project filename="Step4_Router_JN5139.cbp" />
+		<Project filename="Step5_Coordinator_JN5139.cbp" />
+		<Project filename="Step5_Router_JN5139.cbp" />
+		<Project filename="Step5_EndDevice_JN5139.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

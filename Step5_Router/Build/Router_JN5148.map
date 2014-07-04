@@ -1,0 +1,2093 @@
+Archive member included because of file (symbol)
+
+/cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+                              App.o (_eJenie_BindService)
+/cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JPI.o)
+                              App.o (_vJPI_DioWake)
+/cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JPDM.o)
+                              /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o) (_eJPDM_RestoreContext)
+/cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                              /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o) (_vApi_Start_ED)
+/cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+                              /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o) (_vPAR_DeleteRoutingEntry)
+/cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NwkPktQueue.o)
+                              /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o) (_psNwkPktQueueGetBuffer)
+/cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(AppQueueApi.o)
+                              /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o) (_vAppQApiReturnHwIndBuffer)
+/cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ccitt8.o)
+                              /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o) (_u8CCITT8)
+/cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(Interrupt.o)
+                              /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(AppQueueApi.o) (_vInterrupt_Suspend)
+/cygdrive/c/Jennic/Chip/JN5148/Library/libMacPatch_JN5148.a(JN514x_MacPatch.o)
+                              /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o) (_pvAppApiGetMacHandle)
+/cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SystemPatch_JN5148.o)
+                              /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o) (_vAHI_HighPowerModuleEnable)
+/cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_TimerPatch.o)
+                              /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JPI.o) (_vAHI_TimerDIOControl)
+/cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_TimerIntPatch.o)
+                              /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(AppQueueApi.o) (_vAHI_Timer0RegisterCallback)
+/cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SiPatch48.o)
+                              /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(AppQueueApi.o) (_vAHI_SiRegisterCallback)
+/cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_AnaloguePatch.o)
+                              /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JPI.o) (_vAHI_AdcDisable)
+/cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_InitPatch.o)
+                              /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o) (_u32AHI_Init)
+/cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_FlashPatch_JN514x.o)
+                              /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JPDM.o) (_bAHI_FlashEraseSector)
+/cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_FifoPatch.o)
+                              /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_InitPatch.o) (_vAHI_IntHandlerAudioFifo)
+/cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_DioPatch.o)
+                              /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JPI.o) (_vAHI_DioWakeEnable)
+/cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SpiPatch.o)
+                              /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_FlashPatch_JN514x.o) (_vAHI_SpiReadConfiguration)
+/cygdrive/c/Jennic/Chip/JN5148/Library/libRomStdLib_JN5148.a(RomFunctions.o)
+                              Printf.o (___udivsi3)
+/cygdrive/c/Jennic/Platform/DK2/Library/libBoardLib_JN514x.a(Button.o)
+                              App.o (_u8ButtonReadRfd)
+/cygdrive/c/Jennic/Tools/ba-elf-ba2/bin/../lib/gcc/ba-elf/4.1.2/../../../../ba-elf/lib/ba2/libc.a(rand.o)
+                              /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o) (_srand)
+/cygdrive/c/Jennic/Tools/ba-elf-ba2/bin/../lib/gcc/ba-elf/4.1.2/../../../../ba-elf/lib/ba2/libc.a(impure.o)
+                              /cygdrive/c/Jennic/Tools/ba-elf-ba2/bin/../lib/gcc/ba-elf/4.1.2/../../../../ba-elf/lib/ba2/libc.a(rand.o) (__impure_ptr)
+
+Allocating common symbols
+Common symbol       size              file
+
+gu32_SR             0x4               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(Interrupt.o)
+gJenie_RoutingTableSize
+                    0x4               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+gEndDevicePollPeriod
+                    0x4               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+gEndDeviceScanSleep
+                    0x4               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+gStackType          0x4               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+sNwkPktBufferQueue  0x10              /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NwkPktQueue.o)
+gu32Counter         0x4               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(Interrupt.o)
+gJenie_RouterPingPeriod
+                    0x2               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+prAppHwCallback     0x4               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(AppQueueApi.o)
+gJenie_RoutingEnabled
+                    0x1               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+asMlmeIndBuffer     0x750             /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(AppQueueApi.o)
+sBbcIdleBugTimer    0x10              /cygdrive/c/Jennic/Chip/JN5148/Library/libMacPatch_JN5148.a(JN514x_MacPatch.o)
+sHwIndQueue         0x10              /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(AppQueueApi.o)
+apvMlmeIndData      0x28              /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(AppQueueApi.o)
+gRouterPingPeriod   0x2               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+gInternalTimer      0x1               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+sMcpsIndBufferQueue
+                    0x10              /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(AppQueueApi.o)
+gEDChildActivityTimeout
+                    0x4               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+sMlmeIndQueue       0x10              /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(AppQueueApi.o)
+sTreeCommonSaved    0x264             /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+apvHwIndBufferData  0x18              /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(AppQueueApi.o)
+gJenie_EndDeviceScanSleep
+                    0x4               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+gJenie_NetworkApplicationID
+                    0x4               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+prAppMcpsCallback   0x4               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(AppQueueApi.o)
+gRoutingTableSize   0x4               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+gChannel            0x1               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+gJenie_RecoverChildrenFromJpdm
+                    0x1               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+apvHwIndData        0x18              /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(AppQueueApi.o)
+apvMcpsIndBufferData
+                    0x18              /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(AppQueueApi.o)
+gJenie_EndDevicePollPeriod
+                    0x4               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+gJenie_EndDeviceChildActivityTimeout
+                    0x4               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+prHigherMlmeCallback
+                    0x4               /cygdrive/c/Jennic/Chip/JN5148/Library/libMacPatch_JN5148.a(JN514x_MacPatch.o)
+gMaxBcastTTL        0x1               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+gJenie_MaxChildren  0x1               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+sTreeCommonNotSaved
+                    0x50              /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+gMaxFailedPkts      0x1               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+gJenie_MaxFailedPkts
+                    0x1               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+gJenie_RecoverFromJpdm
+                    0x1               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+apvMcpsIndData      0x18              /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(AppQueueApi.o)
+sHwIndBufferQueue   0x10              /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(AppQueueApi.o)
+asHwIndBuffer       0x28              /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(AppQueueApi.o)
+gJenie_Channel      0x1               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+gPanID              0x2               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+apvNwkPktBufferData
+                    0x18              /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NwkPktQueue.o)
+gMaxSleepingChildren
+                    0x1               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+gJenie_MaxSleepingChildren
+                    0x1               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+gJenie_ScanChannels
+                    0x4               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+gMaxChildren        0x1               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+apvNwkPktData       0x18              /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NwkPktQueue.o)
+bPermitExtNwkPkts   0x1               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+gEndDeviceScanTimeout
+                    0x4               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+prAppMlmeCallback   0x4               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(AppQueueApi.o)
+psRoutingTable      0x4               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+u8OverFlow          0x98              /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(AppQueueApi.o)
+gMinBeaconLQI       0x1               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+gChildActivityTimeout
+                    0x4               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+asMcpsIndBuffer     0x2f8             /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(AppQueueApi.o)
+gNetworkID          0x4               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+gJenie_RoutingTableSpace
+                    0x4               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+gpvRoutingTableSpace
+                    0x4               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+gJenie_EndDevicePingInterval
+                    0x1               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+apvMlmeIndBufferData
+                    0x28              /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(AppQueueApi.o)
+sNwkPktQueue        0x10              /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NwkPktQueue.o)
+gEndDevicePingInterval
+                    0x1               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+gScanChannels       0x4               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+gJenie_MaxBcastTTL  0x1               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+sMcpsIndQueue       0x10              /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(AppQueueApi.o)
+asNwkPktBuffer      0x21c             /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NwkPktQueue.o)
+gRouterEnableAutoPurge
+                    0x1               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+gRouterPurgeInactiveED
+                    0x1               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+sMlmeIndBufferQueue
+                    0x10              /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(AppQueueApi.o)
+gJenie_PanID        0x2               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+gRouteImport        0x1               /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 Router.o
+ .data          0x00000000        0x0 Router.o
+ .bss           0x00000000        0x0 Router.o
+ .text          0x00000000        0x0 App.o
+ .data          0x00000000        0x0 App.o
+ .bss           0x00000000        0x0 App.o
+ .text          0x00000000        0x0 Printf.o
+ .data          0x00000000        0x0 Printf.o
+ .bss           0x00000000        0x0 Printf.o
+ .text.vInitPrintf
+                0x00000000        0x0 Printf.o
+ .text          0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+ .data          0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+ .bss           0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+ .text.eJenie_UnBindService
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+ .text.vJIP_PeripheralEvent
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+ .text.eJenie_GetNgbrTblEntry
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+ .text.eJenie_GetRtgTblEntry
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+ .text.eJenie_ResetNeighbourStats
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+ .text.eJenie_GetNeighbourTableEntry
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+ .text.u8Jenie_GetNeighbourTableSize
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+ .text.eJenie_GetRoutingTableEntry
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+ .text.u16Jenie_GetRoutingTableSize
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+ .text.u32Jenie_GetVersion
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+ .text.eJenie_RadioPower
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+ .text.eJenie_PollParent
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+ .text.eJenie_SetSecurityKey
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+ .text.eJenie_Leave
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+ .text          0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JPI.o)
+ .data          0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JPI.o)
+ .bss           0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JPI.o)
+ .text.u32JPI_TimerReadCapture
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JPI.o)
+ .text.vJPI_TimerStart
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JPI.o)
+ .text.vJPI_TimerEnable
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JPI.o)
+ .text.bJPI_ComparatorWakeStatus
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JPI.o)
+ .text.bJPI_ComparatorStatus
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JPI.o)
+ .text.vJPI_AnalogueDisable
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JPI.o)
+ .text.vJPI_AnalogueEnable
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JPI.o)
+ .text          0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JPDM.o)
+ .data          0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JPDM.o)
+ .bss           0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JPDM.o)
+ .text.bNvmErase
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JPDM.o)
+ .text.vJPDM_EraseAllContext
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JPDM.o)
+ .text.bNvmWrite
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JPDM.o)
+ .text.vJPDM_SaveContext
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JPDM.o)
+ .text          0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .data          0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .bss           0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text.vApi_SetBcastTTL
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text.vApi_SetPurgeRoute
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text.vApi_SetPurgeInterval
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text.vApi_RegScanSortCallback_CR
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text.vApi_RegBeaconNotifyCallback_CR
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text.vApi_RegLocalAuthoriseCallback
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text.vApi_SetUserBeaconBits
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text.u16Api_GetUserBeaconBits_CR
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text.vApi_SetScanSleep
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text.eApi_PollForData
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text.vApi_SetNetworkKey
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .rodata.str1.1
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text.u32Api_GetVersion
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text.bApi_ResetNeighbourStats
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text.vNwk_CleanRoute
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text.u8Api_GetStackState
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text.u8Api_GetLastPktLqi
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text.psNwk_GetNgbrTblEntry
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text.vNwk_SetBeaconCalming
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text.vJenNet_InitSystem_CR
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text.vJenNet_StateMachine_CR
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text.vJenNet_PostMlme_CR
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text.eApi_SendDataToExtNwk_CR
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text.eApi_SendDataToExtNwk
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text.vJenNet_ProcessIncomingHwEvent
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text.vJenNet_PostMcps_CR
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text.u8Api_GetNeighbourTableSize
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text.bApi_GetNeighbourTableEntry
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text.vApi_RegScanSortCallback
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text.vApi_RegBeaconNotifyCallback
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text.u16Api_GetUserBeaconBits
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .bss.sParentEntry.4883
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text          0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+ .data          0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+ .bss           0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+ .text.u16Api_GetRoutingTableSize
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+ .text.eApi_RegisterServices_CR
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+ .text.vApi_RegNwkAuthoriseCallback
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+ .text.psPAR_GetRtgTblEntry
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+ .text.bApi_GetRoutingTableEntry
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+ .text.eApi_RepairRoute_CR
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+ .text.eApi_RepairRoute
+                0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+ .text          0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NwkPktQueue.o)
+ .data          0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NwkPktQueue.o)
+ .bss           0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NwkPktQueue.o)
+ .text          0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(AppQueueApi.o)
+ .data          0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(AppQueueApi.o)
+ .bss           0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(AppQueueApi.o)
+ .text          0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ccitt8.o)
+ .data          0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ccitt8.o)
+ .bss           0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ccitt8.o)
+ .text          0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(Interrupt.o)
+ .data          0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(Interrupt.o)
+ .bss           0x00000000        0x0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(Interrupt.o)
+ .text          0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libMacPatch_JN5148.a(JN514x_MacPatch.o)
+ .data          0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libMacPatch_JN5148.a(JN514x_MacPatch.o)
+ .bss           0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libMacPatch_JN5148.a(JN514x_MacPatch.o)
+ .text.vAppApiSaveMacSettings
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libMacPatch_JN5148.a(JN514x_MacPatch.o)
+ .text.MAC_vPibSetMinBe
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libMacPatch_JN5148.a(JN514x_MacPatch.o)
+ .text.vAppApiRegisterTxStartCallback
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libMacPatch_JN5148.a(JN514x_MacPatch.o)
+ .text.psTSV_GetHead
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libMacPatch_JN5148.a(JN514x_MacPatch.o)
+ .text.vMAC_RestoreSettings
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libMacPatch_JN5148.a(JN514x_MacPatch.o)
+ .text.vAppApiRestoreMacSettings
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libMacPatch_JN5148.a(JN514x_MacPatch.o)
+ .bss.u32StoreBbcPttt
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libMacPatch_JN5148.a(JN514x_MacPatch.o)
+ .text          0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SystemPatch_JN5148.o)
+ .data          0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SystemPatch_JN5148.o)
+ .bss           0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SystemPatch_JN5148.o)
+ .text.vAHI_ClearSystemEventStatus
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SystemPatch_JN5148.o)
+ .text.bAHI_WatchdogResetEvent
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SystemPatch_JN5148.o)
+ .text.u16AHI_WatchdogReadValue
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SystemPatch_JN5148.o)
+ .text.bAHI_GetClkSource
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SystemPatch_JN5148.o)
+ .text.vTimerCallback
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SystemPatch_JN5148.o)
+ .text.vAHI_ETSIHighPowerModuleEnable
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SystemPatch_JN5148.o)
+ .text.vAHI_HighPowerModuleEnable
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SystemPatch_JN5148.o)
+ .text.bAHI_RndNumPoll
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SystemPatch_JN5148.o)
+ .text.vSetBit  0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SystemPatch_JN5148.o)
+ .text.vAHI_SetStackOverflow
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SystemPatch_JN5148.o)
+ .text.vAHI_EnableFastStartUp
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SystemPatch_JN5148.o)
+ .text.vAHI_StartRandomNumberGenerator
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SystemPatch_JN5148.o)
+ .text.bPollClkSource
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SystemPatch_JN5148.o)
+ .text.vAHI_SelectClockSource
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SystemPatch_JN5148.o)
+ .text.bAHI_SetClockRate
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SystemPatch_JN5148.o)
+ .text.Delay    0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SystemPatch_JN5148.o)
+ .text.bAHI_Set32KhzClockMode
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SystemPatch_JN5148.o)
+ .text.vAHI_Sleep
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SystemPatch_JN5148.o)
+ .bss.gbTimeOutFlag
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SystemPatch_JN5148.o)
+ .rodata.C.4.3220
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SystemPatch_JN5148.o)
+ .text          0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_TimerPatch.o)
+ .data          0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_TimerPatch.o)
+ .bss           0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_TimerPatch.o)
+ .text.vAHI_TimerFineGrainDIOControl
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_TimerPatch.o)
+ .text.vAHI_TimerStartCapture
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_TimerPatch.o)
+ .text.vSetBit  0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_TimerPatch.o)
+ .text.vAHI_TimerConfigure
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_TimerPatch.o)
+ .text.vAHI_TimerConfigureInputs
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_TimerPatch.o)
+ .text          0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_TimerIntPatch.o)
+ .data          0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_TimerIntPatch.o)
+ .bss           0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_TimerIntPatch.o)
+ .text.vAHI_Timer2RegisterCallback
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_TimerIntPatch.o)
+ .text          0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SiPatch48.o)
+ .data          0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SiPatch48.o)
+ .bss           0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SiPatch48.o)
+ .text.vAHI_SiMasterDisable
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SiPatch48.o)
+ .text.bAHI_SiMasterSetCmdReg
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SiPatch48.o)
+ .text.vAHI_SiMasterSetCmdReg
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SiPatch48.o)
+ .text          0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_AnaloguePatch.o)
+ .data          0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_AnaloguePatch.o)
+ .bss           0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_AnaloguePatch.o)
+ .text.vAHI_AdcDisable
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_AnaloguePatch.o)
+ .text.vAHI_AdcStartSample
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_AnaloguePatch.o)
+ .text.vAHI_AdcStartAccumulateSamples
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_AnaloguePatch.o)
+ .text.u16AHI_AdcRead
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_AnaloguePatch.o)
+ .text.bAHI_AdcPoll
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_AnaloguePatch.o)
+ .text.vAHI_ApSetBandGap
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_AnaloguePatch.o)
+ .text          0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_InitPatch.o)
+ .data          0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_InitPatch.o)
+ .bss           0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_InitPatch.o)
+ .text          0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_FlashPatch_JN514x.o)
+ .data          0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_FlashPatch_JN514x.o)
+ .bss           0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_FlashPatch_JN514x.o)
+ .text.bAHI_FlashEraseSector
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_FlashPatch_JN514x.o)
+ .text.bAHI_FullFlashProgram
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_FlashPatch_JN514x.o)
+ .text          0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_FifoPatch.o)
+ .data          0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_FifoPatch.o)
+ .bss           0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_FifoPatch.o)
+ .text.u8AHI_FifoReadRxLevel
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_FifoPatch.o)
+ .text.vAHI_FifoRegisterCallback
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_FifoPatch.o)
+ .text.vSetBit  0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_FifoPatch.o)
+ .text.vAHI_FifoEnableInterrupts
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_FifoPatch.o)
+ .text.vAHI_FifoSetInterruptLevel
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_FifoPatch.o)
+ .text          0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_DioPatch.o)
+ .data          0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_DioPatch.o)
+ .bss           0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_DioPatch.o)
+ .text.vAHI_DioSetPullup
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_DioPatch.o)
+ .text.u32AHI_DioWakeStatus
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_DioPatch.o)
+ .text          0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SpiPatch.o)
+ .data          0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SpiPatch.o)
+ .bss           0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SpiPatch.o)
+ .text.vAHI_SpiReadConfiguration
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SpiPatch.o)
+ .text.vAHI_SpiRestoreConfiguration
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SpiPatch.o)
+ .text.vAHI_SpiStartTransfer
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SpiPatch.o)
+ .text.vAHI_SpiStartTransfer32
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SpiPatch.o)
+ .text.vAHI_SpiStartTransfer16
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SpiPatch.o)
+ .text.vAHI_SpiStartTransfer8
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SpiPatch.o)
+ .text.vAHI_SpiContinuous
+                0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SpiPatch.o)
+ .data          0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libRomStdLib_JN5148.a(RomFunctions.o)
+ .bss           0x00000000        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libRomStdLib_JN5148.a(RomFunctions.o)
+ .data          0x00000000        0x0 /cygdrive/c/Jennic/Platform/DK2/Library/libBoardLib_JN514x.a(Button.o)
+ .bss           0x00000000        0x0 /cygdrive/c/Jennic/Platform/DK2/Library/libBoardLib_JN514x.a(Button.o)
+ .data          0x00000000        0x0 /cygdrive/c/Jennic/Tools/ba-elf-ba2/bin/../lib/gcc/ba-elf/4.1.2/../../../../ba-elf/lib/ba2/libc.a(rand.o)
+ .bss           0x00000000        0x0 /cygdrive/c/Jennic/Tools/ba-elf-ba2/bin/../lib/gcc/ba-elf/4.1.2/../../../../ba-elf/lib/ba2/libc.a(rand.o)
+ .stabstr       0x00000000        0x0 /cygdrive/c/Jennic/Tools/ba-elf-ba2/bin/../lib/gcc/ba-elf/4.1.2/../../../../ba-elf/lib/ba2/libc.a(rand.o)
+ .text          0x00000000        0x0 /cygdrive/c/Jennic/Tools/ba-elf-ba2/bin/../lib/gcc/ba-elf/4.1.2/../../../../ba-elf/lib/ba2/libc.a(impure.o)
+ .bss           0x00000000        0x0 /cygdrive/c/Jennic/Tools/ba-elf-ba2/bin/../lib/gcc/ba-elf/4.1.2/../../../../ba-elf/lib/ba2/libc.a(impure.o)
+ .stabstr       0x00000000        0x0 /cygdrive/c/Jennic/Tools/ba-elf-ba2/bin/../lib/gcc/ba-elf/4.1.2/../../../../ba-elf/lib/ba2/libc.a(impure.o)
+ .rodata        0x00000000        0x0 /cygdrive/c/Jennic/Tools/ba-elf-ba2/bin/../lib/gcc/ba-elf/4.1.2/../../../../ba-elf/lib/ba2/libc.a(impure.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+ram              0x04000000         0x00020000
+flash            0x04000000         0x00080000
+rom              0x00000000         0x00020000
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD Router.o
+LOAD App.o
+LOAD Printf.o
+START GROUP
+LOAD /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a
+LOAD /cygdrive/c/Jennic/Chip/JN5148/Library/libMacPatch_JN5148.a
+LOAD /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a
+LOAD /cygdrive/c/Jennic/Chip/JN5148/Library/libRomStdLib_JN5148.a
+LOAD /cygdrive/c/Jennic/Components/Library/libPDM_JN514x.a
+LOAD /cygdrive/c/Jennic/Platform/DK2/Library/libBoardLib_JN514x.a
+END GROUP
+LOAD /cygdrive/c/Jennic/Tools/ba-elf-ba2/bin/../lib/gcc/ba-elf/4.1.2/ba2/libgcc.a
+LOAD /cygdrive/c/Jennic/Tools/ba-elf-ba2/bin/../lib/gcc/ba-elf/4.1.2/../../../../ba-elf/lib/ba2/libc.a
+LOAD /cygdrive/c/Jennic/Tools/ba-elf-ba2/bin/../lib/gcc/ba-elf/4.1.2/ba2/libgcc.a
+                0x00001000                _stack_size = 0x1000
+                0x00001000                _stack_size = 0x1000
+                0x000000c0                __exception_bus_error = 0xc0
+                0x00000124                __exception_tick_timer = 0x124
+                0x00000188                __exception_unaligned_access = 0x188
+                0x000001ec                __exception_illegal_instruction = 0x1ec
+                0x00000250                __exception_external_interrupt = 0x250
+                0x000002b4                __exception_syscall = 0x2b4
+                0x00000318                __exception_trap = 0x318
+                0x0000037c                __exception_generic = 0x37c
+                0x000003e0                __exception_stack_overflow = 0x3e0
+                0x00000444                __exception_reset = 0x444
+                0x00000a9c                _sJennicLogo = 0xa9c
+                0x0000a1cc                __stext = 0xa1cc
+                0x0000a20e                ___errno = 0xa20e
+                0x0000a25e                ___udivsi3 = 0xa25e
+                0x0000a25e                ___udivsi3 = 0xa25e
+                0x0000a266                ___umodsi3 = 0xa266
+                0x0000a266                ___umodsi3 = 0xa266
+                0x0000a26e                ___divsi3 = 0xa26e
+                0x0000a29a                ___modsi3 = 0xa29a
+                0x0000a434                _vAHI_ApConfigure = 0xa434
+                0x0000a49f                _bAHI_APRegulatorEnabled = 0xa49f
+                0x0000a4ac                _vAHI_AdcEnable = 0xa4ac
+                0x0000a5ac                _bAHI_AdcPoll = 0xa5ac
+                0x0000a604                _vAHI_DacEnable = 0xa604
+                0x0000a686                _vAHI_DacDisable = 0xa686
+                0x0000a6a3                _vAHI_DacOutput = 0xa6a3
+                0x0000a6c7                _bAHI_DacPoll = 0xa6c7
+                0x0000a89a                _vAHI_ComparatorEnable = 0xa89a
+                0x0000a8d5                _vAHI_ComparatorDisable = 0xa8d5
+                0x0000a945                _vAHI_ComparatorWakeEnable = 0xa945
+                0x0000a94b                _u8AHI_ComparatorStatus = 0xa94b
+                0x0000a95b                _u8AHI_ComparatorWakeStatus = 0xa95b
+                0x0000a96f                _bAHI_DaiPollBusy = 0xa96f
+                0x0000a97e                _vAHI_DaiReadAudioData = 0xa97e
+                0x0000a993                _vAHI_DaiWriteAudioData = 0xa993
+                0x0000a9a0                _vAHI_IntHandlerDai = 0xa9a0
+                0x0000a9be                _vAHI_DaiRegisterCallback = 0xa9be
+                0x0000a9eb                _vAHI_DaiStartTransaction = 0xa9eb
+                0x0000aa0e                _vAHI_DaiConnectToFIFO = 0xaa0e
+                0x0000aac4                _vAHI_DaiSetBitClock = 0xaac4
+                0x0000aaed                _vAHI_DaiInterruptEnable = 0xaaed
+                0x0000ab05                _vAHI_DaiEnable = 0xab05
+                0x0000ab28                _vAHI_DioSetDirection = 0xab28
+                0x0000ab3c                _vAHI_DioSetOutput = 0xab3c
+                0x0000ab64                _u32AHI_DioReadInput = 0xab64
+                0x0000aba9                _vAHI_DioSetByte = 0xaba9
+                0x0000abc3                _u8AHI_DioReadByte = 0xabc3
+                0x0000ad82                _bAHI_FifoRead = 0xad82
+                0x0000ad9f                _vAHI_FifoWrite = 0xad9f
+                0x0000adc4                _u8AHI_FifoReadTxLevel = 0xadc4
+                0x0000ae8c                _vAHI_FifoEnable = 0xae8c
+                0x0000aedf                _vAHI_FlashPowerUp = 0xaedf
+                0x0000af14                _vAHI_FlashPowerDown = 0xaf14
+                0x0000afa3                _bAHI_FullFlashRead = 0xafa3
+                0x0000b281                _vAHI_IpDisable = 0xb281
+                0x0000b3a6                _bAHI_IpTxDone = 0xb3a6
+                0x0000b3c2                _bAHI_IpRxDataAvailable = 0xb3c2
+                0x0000b3cf                _vAHI_IntHandlerSpiIp = 0xb3cf
+                0x0000b3f1                _vAHI_IpRegisterCallback = 0xb3f1
+                0x0000b44e                _bAHI_StartPulseCounter = 0xb44e
+                0x0000b475                _bAHI_Clear32BitPulseCounter = 0xb475
+                0x0000b579                _bAHI_Clear16BitPulseCounter = 0xb579
+                0x0000b5e5                _bAHI_StopPulseCounter = 0xb5e5
+                0x0000b630                _vAHI_SwReset = 0xb630
+                0x0000b648                _vAHI_SiMasterConfigure = 0xb648
+                0x0000b6bf                _vAHI_SiMasterWriteData8 = 0xb6bf
+                0x0000b6c6                _vAHI_SiSlaveWriteData8 = 0xb6c6
+                0x0000b6cd                _u8AHI_SiMasterReadData8 = 0xb6cd
+                0x0000b6d7                _u8AHI_SiSlaveReadData8 = 0xb6d7
+                0x0000b6e1                _vAHI_SiMasterWriteSlaveAddr = 0xb6e1
+                0x0000b6fa                _bAHI_SiMasterPollBusy = 0xb6fa
+                0x0000b707                _bAHI_SiMasterPollTransferInProgress = 0xb707
+                0x0000b714                _bAHI_SiMasterCheckRxNack = 0xb714
+                0x0000b721                _bAHI_SiMasterPollArbitrationLost = 0xb721
+                0x0000b816                _vAHI_SiSlaveConfigure = 0xb816
+                0x0000b714                _bAHI_SiMasterCheckRxNack = 0xb714
+                0x0000b714                _bAHI_SiCheckRxNack = 0xb714
+                0x0000b714                _bAHI_SiPollRxNack = 0xb714
+                0x0000b648                _vAHI_SiConfigure = 0xb648
+                0x0000b67d                _vAHI_SiSetCmdReg = 0xb67d
+                0x0000b6bf                _vAHI_SiWriteData8 = 0xb6bf
+                0x0000b6cd                _u8AHI_SiReadData8 = 0xb6cd
+                0x0000b6e1                _vAHI_SiWriteSlaveAddr = 0xb6e1
+                0x0000b6fa                _bAHI_SiPollBusy = 0xb6fa
+                0x0000b707                _bAHI_SiPollTransferInProgress = 0xb707
+                0x0000b721                _bAHI_SiPollArbitrationLost = 0xb721
+                0x0000b871                _vAHI_SpiConfigure = 0xb871
+                0x0000b8f7                _vAHI_SpiSetDelayReadEdge = 0xb8f7
+                0x0000b97d                _vAHI_SpiSelect = 0xb97d
+                0x0000b984                _vAHI_SpiStop = 0xb984
+                0x0000b98d                _vAHI_SpiStartTransfer32 = 0xb98d
+                0x0000b9a5                _u32AHI_SpiReadTransfer32 = 0xb9a5
+                0x0000b9ac                _vAHI_SpiStartTransfer16 = 0xb9ac
+                0x0000b9c4                _u16AHI_SpiReadTransfer16 = 0xb9c4
+                0x0000b9ce                _vAHI_SpiStartTransfer8 = 0xb9ce
+                0x0000b9e6                _u8AHI_SpiReadTransfer8 = 0xb9e6
+                0x0000b9f0                _bAHI_SpiPollBusy = 0xb9f0
+                0x0000b9fa                _vAHI_SpiWaitBusy = 0xb9fa
+                0x0000ba07                _vAHI_IntHandlerSpiMaster = 0xba07
+                0x0000ba2d                _vAHI_SpiRegisterCallback = 0xba2d
+                0x0000ba45                _vAHI_SpiSetContinuousMode = 0xba45
+                0x0000ba63                _u8AHI_PowerStatus = 0xba63
+                0x0000ba6d                _vAHI_MemoryHold = 0xba6d
+                0x0000baa9                _vAHI_ProtocolPower = 0xbaa9
+                0x0000bac0                _vAHI_CpuDoze = 0xbac0
+                0x0000bad3                _vAHI_IntHandlerSysCtrl = 0xbad3
+                0x0000bb08                _vAHI_SysCtrlRegisterCallback = 0xbb08
+                0x0000bb5d                _vAHI_AntennaDiversityOutputEnable = 0xbb5d
+                0x0000bb9a                _vAHI_WatchdogStart = 0xbb9a
+                0x0000bbad                _vAHI_WatchdogStop = 0xbbad
+                0x0000bbc4                PROVIDE (_vAHI_WatchdogRestart, 0xbbc4)
+                0x0000bc14                _u8AHI_GetSystemClkSpeed = 0xbc14
+                0x0000bc23                _bAHI_Calibrate24MhzClock = 0xbc23
+                0x0000bd85                _vAHI_PowerXTAL = 0xbd85
+                0x0000beb6                _vAHI_StopRandomNumberGenerator = 0xbeb6
+                0x0000bebf                _u16AHI_ReadRandomNumber = 0xbebf
+                0x0000bf6d                _vAHI_PowerDown = 0xbf6d
+                0x0000bfcd                _vAHI_TickTimerInit = 0xbfcd
+                0x0000bff4                _vAHI_TickTimerWrite = 0xbff4
+                0x0000bffd                _vAHI_TickTimerIntPendClr = 0xbffd
+                0x0000c012                _bAHI_TickTimerIntStatus = 0xc012
+                0x0000c021                _vAHI_TickTimerConfigure = 0xc021
+                0x0000c03c                _vAHI_TickTimerIntEnable = 0xc03c
+                0x0000c05d                _u32AHI_TickTimerRead = 0xc05d
+                0x0000c066                _vAHI_TickTimerInterval = 0xc066
+                0x0000c084                _vAHI_TickTimerISR = 0xc084
+                0x0000c0c1                _vAHI_TimerEnable = 0xc0c1
+                0x0000c168                _vAHI_TimerDisable = 0xc168
+                0x0000c18e                _vAHI_TimerClockSelect = 0xc18e
+                0x0000c1bb                _vAHI_TimerReadCaptureFreeRunning = 0xc1bb
+                0x0000c1f4                _vAHI_TimerStop = 0xc1f4
+                0x0000c216                _vAHI_TimerReadCapture = 0xc216
+                0x0000c25e                _u8AHI_TimerFired = 0xc25e
+                0x0000c30c                _vAHI_TimerStartDeltaSigma = 0xc30c
+                0x0000c343                _vAHI_TimerStartRepeat = 0xc343
+                0x0000c351                _vAHI_TimerStartSingleShot = 0xc351
+                0x0000c362                _u16AHI_TimerReadCount = 0xc362
+                0x0000c46f                _vAHI_UartEnable = 0xc46f
+                0x0000c4c6                _vAHI_UartDisable = 0xc4c6
+                0x0000c520                _vAHI_UartSetBaudDivisor = 0xc520
+                0x0000c579                _vAHI_UartSetClockDivisor = 0xc579
+                0x0000c588                _vAHI_UartSetControl = 0xc588
+                0x0000c5e2                _vAHI_UartSetInterrupt = 0xc5e2
+                0x0000c64c                _vAHI_UartReset = 0xc64c
+                0x0000c67c                _u8AHI_UartReadLineStatus = 0xc67c
+                0x0000c6a2                _u8AHI_UartReadModemStatus = 0xc6a2
+                0x0000c6c8                _u8AHI_UartReadInterruptStatus = 0xc6c8
+                0x0000c6ee                _vAHI_UartWriteData = 0xc6ee
+                0x0000c70d                _u8AHI_UartReadData = 0xc70d
+                0x0000c756                _vAHI_IntHandlerUart0 = 0xc756
+                0x0000c77f                _vAHI_IntHandlerUart1 = 0xc77f
+                0x0000c7a8                _vAHI_Uart0RegisterCallback = 0xc7a8
+                0x0000c7c0                _vAHI_Uart1RegisterCallback = 0xc7c0
+                0x0000c82f                _vAHI_WakeTimerEnable = 0xc82f
+                0x0000c88b                _vAHI_WakeTimerStart = 0xc88b
+                0x0000c944                _vAHI_WakeTimerStop = 0xc944
+                0x0000c96b                _u8AHI_WakeTimerStatus = 0xc96b
+                0x0000c975                _u8AHI_WakeTimerFiredStatus = 0xc975
+                0x0000ca2c                _bACI_isBusy = 0xca2c
+                0x0000ca44                _bACI_commandAccepted = 0xca44
+                0x0000ca5e                _vACI_CmdWaitBusy = 0xca5e
+                0x0000cb2d                _bACI_WriteKey = 0xcb2d
+                0x0000cb43                _bACI_issueReset = 0xcb43
+                0x0000cb61                _bACI_setMode = 0xcb61
+                0x0000cb8f                _bACI_ReadOutputData = 0xcb8f
+                0x0000cbc4                _bACI_WriteInputData = 0xcbc4
+                0x0000cbe7                _vACI_IntHandlerAes = 0xcbe7
+                0x0000cc0c                _vACI_SetInterruptCallback = 0xcc0c
+                0x0000cc65                _vACI_ClearInterruptStatus = 0xcc65
+                0x0000cc7f                _vACI_ClearInterruptEnable = 0xcc7f
+                0x0000cc96                _vACI_SetInterruptEnable = 0xcc96
+                0x0000ccea                _vACI_ReadInterruptEnable = 0xccea
+                0x0000ccfb                _vACI_ReadInterruptStatus = 0xccfb
+                0x0000cd0c                _bACI_ReadChecksumValidationResult = 0xcd0c
+                0x0000cd2b                _bACI_ReadChecksumData = 0xcd2b
+                0x0000cd86                _bACI_CCMstar = 0xcd86
+                0x0000d06f                _bACI_CCMstarAuthenticateData = 0xd06f
+                0x0000d0a9                _bACI_CCMstarEncodeData = 0xd0a9
+                0x0000d0ce                _bACI_ECBencodeBuffer = 0xd0ce
+                0x0000d153                _bACI_ECBencodeStripe = 0xd153
+                0x0000d16a                _bACI_IEEECTRencodeData = 0xd16a
+                0x0000d192                _pvAppApiDefGetMacHandle = 0xd192
+                0x0000d192                _pvAppApiDefGetMacHandle = 0xd192
+                0x0000d19b                _vAppApiDefMlmeRequest = 0xd19b
+                0x0000d1ce                _vAppApiDefMcpsRequest = 0xd1ce
+                0x0000d201                _vAppApiDefPowerUp = 0xd201
+                0x0000d21f                _vAppApiDefSetPrbsSeed = 0xd21f
+                0x0000d243                _vAppApiDefSetInterrupts = 0xd243
+                0x0000d28e                _pvAppApiDefGetMacAddrLocation = 0xd28e
+                0x0000d28e                _pvAppApiDefGetMacAddrLocation = 0xd28e
+                0x0000d297                _vAppApiSetMacEntryPoints = 0xd297
+                0x0000d2a6                _vAppApiGetMacEntryPoints = 0xd2a6
+                0x0000d2bb                _vAppApiEnableBeaconResponse = 0xd2bb
+                0x0000d327                _vAppApiDefSetVectors = 0xd327
+                0x0000d394                _vAppApiDefStartStack = 0xd394
+                0x0000d3e8                _u32AppApiDefInit = 0xd3e8
+                0x0000d427                _vAppApiDefSaveMacSettings = 0xd427
+                0x0000d470                _vAppApiDefRestoreMacSettings = 0xd470
+                0x0000d53d                _vAppHousekeepingTimerExpiry = 0xd53d
+                0x0000d564                _vAppHousekeepingInit = 0xd564
+                0x0000db95                _MAC_pvCtor = 0xdb95
+                0x0000de9d                _MAC_psPibGetHandle = 0xde9d
+                0x0000dea4                _MAC_vPibSetShortAddr = 0xdea4
+                0x0000deaf                _MAC_vPibSetPanId = 0xdeaf
+                0x0000dee2                _MAC_vPibSetMaxCsmaBackoffs = 0xdee2
+                0x0000df1f                _MAC_vPibSetRxOnWhenIdle = 0xdf1f
+                0x0000df2f                _MAC_vPibSetPromiscuousMode = 0xdf2f
+                0x0000e6b6                _MAC_vRegisterMlmeDcfmIndCallbacks = 0xe6b6
+                0x0000e6c2                _MAC_vRegisterMcpsDcfmIndCallbacks = 0xe6c2
+                0x0000eeb1                _MAC_vLPBRegisterCallback = 0xeeb1
+                0x0000ef0c                _MAC_vLPBSetBeaconMultiplier = 0xef0c
+                0x0000efa2                _MAC_vLPBSleep = 0xefa2
+                0x0000f04b                _MAC_vLPBAdjustWakeForNextBeacon = 0xf04b
+                0x0000f105                _MAC_bLPBProcessWake = 0xf105
+                0x0000f1b6                _MAC_vLPBCalibrateTimer = 0xf1b6
+                0x00011cfe                _u8AppApiReadMsq = 0x11cfe
+                0x000136d0                _memcpy = 0x136d0
+                0x00013748                _memcmp = 0x13748
+                0x0001376c                _memset = 0x1376c
+                0x0001e2b0                _strcpy = 0x1e2b0
+                0x0001e2cb                _strncmp = 0x1e2cb
+                0x0001e306                _strncpy = 0x1e306
+                0x0001377e                _vUTIL_NumToString = 0x1377e
+                0x000137a6                _vUTIL_UartText = 0x137a6
+                0x000137e6                _vUTIL_UartTextToNewLine = 0x137e6
+                0x00013802                _vUTIL_UartInit = 0x13802
+                0x0001dc21                ___muldi3 = 0x1dc21
+                0x0001dcf4                ___udivdi3 = 0x1dcf4
+                0x0001e1e8                ___mulsi3 = 0x1e1e8
+                0x040003a8                _g_pvMac = 0x40003a8
+                0x040003ac                _g_sXcv = 0x40003ac
+                0x04000b20                _g_sLP = 0x4000b20
+                0x04000b64                _aprMacVectorRamTable = 0x4000b64
+                0x0400006c                _aprLPBMacVectorRamTable = 0x400006c
+                0x04000d00                __app_ram_start = 0x4000d00
+                0x0400006c                _aprLPBMacVectorRamTable = 0x400006c
+                0x0000df00                _MAC_vSetExtAddr = 0xdf00
+                0x0000f4a4                _phy_ePibGet = 0xf4a4
+                0x0000f3fc                _phy_ePibSet = 0xf3fc
+                0x0001362e                _TSV_eStop = 0x1362e
+                0x00013498                _TSV_eOpen = 0x13498
+                0x00013562                _TSV_eStart = 0x13562
+                0x000136a4                _TSV_eClose = 0x136a4
+                0x000133c5                _vXCV_IntHandlerPhy = 0x133c5
+                0x00013346                _vXCV_IntHandlerBbc = 0x13346
+                0x0000de04                _MAC_vHandleMlmeReqRsp = 0xde04
+                0x0000dde2                _MAC_vHandleMcpsReqRsp = 0xdde2
+                0x0000a2cb                _pvHeap_Alloc = 0xa2cb
+                0x00011f29                _bTACframeInProgress = 0x11f29
+                0x0000ef5c                _MAC_u32ConvertTo16uS = 0xef5c
+                0x00013323                _XCV_vDevWriteIER = 0x13323
+                0x0001332d                _XCV_vDevRMW_IER = 0x1332d
+                0x0000e6ce                _mac_psDcfmIndGetBuf = 0xe6ce
+                0x0000e6f1                _mac_eDcfmIndPost = 0xe6f1
+                0x00012bbe                _vTSCsetUpwardSecurity = 0x12bbe
+                0x040002b0                _au16TimerSettings = 0x40002b0
+                0x04000044                _pSPIflashFncTable = 0x4000044
+                0x00009867                _u8SelectFlashChipType = 0x9867
+                0x0000981c                _u16ZSPIflashRDID = 0x981c
+                0x0001341f                _RND_u32GetRand = 0x1341f
+                0x00013454                _RND_u32GetRand256 = 0x13454
+                0x00013416                _RND_vInit = 0x13416
+                0x00008d6c                _vBootFlashProg = 0x8d6c
+                0x00008009                _exception_restore_state = 0x8009
+                0x0400004c                _prHeap_AllocFunc = 0x400004c
+                0x0000d60a                _psAppQApiReadMcpsInd = 0xd60a
+                0x0000d615                _psAppQApiReadMlmeInd = 0xd615
+                0x0000d5ff                _psAppQApiReadHwInd = 0xd5ff
+                0x0000d6cc                _vAppQApiReturnMlmeIndBuffer = 0xd6cc
+                0x0000d6bf                _vAppQApiReturnMcpsIndBuffer = 0xd6bf
+                0x0000d6b2                _vAppQApiReturnHwIndBuffer = 0xd6b2
+                0x0000d9f1                _u32AppQApiInit = 0xd9f1
+                0x0000aebf                _vClearFlashBlockProtect = 0xaebf
+                0x0000aee5                _vConfigureSpi = 0xaee5
+                0x0000aead                _vSetFlashWriteEnable = 0xaead
+                0x000096a2                _bZSPIWaitWIPClear = 0x96a2
+                0x040003a0                _g_tSpiConfiguration = 0x40003a0
+                0x00000800                _minimum_heap_size = 0x800
+
+.rom_workspace.os.o.s_u32CurrentPriorityMask
+ *os.o(.bss.s_u32CurrentPriorityMask)
+
+.rom_workspace.os.o.s_psCurrentTask
+ *os.o(.bss.s_psCurrentTask)
+
+.rom_workspace.os.o.s_prvUnclaimedISR
+ *os.o(.bss.s_prvUnclaimedISR)
+
+.rom_workspace.os.o.s_u32SuspendIRQNesting
+ *os.o(.bss.s_u32SuspendIRQNesting)
+
+.rom_workspace.os.o.s_u8SuspendedIPL
+ *os.o(.bss.s_u8SuspendedIPL)
+
+.rom_workspace.os.o.s_u32PendingQueue
+ *os.o(.bss.s_u32PendingQueue)
+
+.rom_workspace.os.o.s_asTasks
+ *os.o(.bss.s_asTasks)
+
+.rom_workspace.os.o.s_u8OSLevelIPL
+ *os.o(.bss.s_u8OSLevelIPL)
+
+.rom.OS_eGetCurrentTask
+ *(.text.OS_eGetCurrentTask)
+
+.rom.OS_eGetMessageStatus
+ *(.text.OS_eGetMessageStatus)
+
+.rom.OS_eSuspendOSInterrupts
+ *(.text.OS_eSuspendOSInterrupts)
+
+.rom.OS_eResumeOSInterrupts
+ *(.text.OS_eResumeOSInterrupts)
+
+.rom.OS_eDisableAllInterrupts
+ *(.text.OS_eDisableAllInterrupts)
+
+.rom.OS_eEnableAllInterrupts
+ *(.text.OS_eEnableAllInterrupts)
+
+.rom.OS_eGetSWTimerStatus
+ *(.text.OS_eGetSWTimerStatus)
+
+.rom.os_vUnclaimedInterrupt
+ *(.text.os_vUnclaimedInterrupt)
+
+.rom.eExpireSWTimer
+ *(.text.eExpireSWTimer)
+
+.rom.OS_eEnterCriticalSection
+ *(.text.OS_eEnterCriticalSection)
+                0x04000130                _os_g_aprPatchTable = 0x4000130
+
+.rom_workspace.pdum_nwk.o.s_psFreeListHead
+ *pdum_nwk.o(.bss.s_psFreeListHead)
+
+.rom_workspace.pdum_nwk.o.s_psNPduPoolStart
+ *pdum_nwk.o(.bss.s_psNPduPoolStart)
+
+.rom_workspace.pdum_nwk.o.s_psNPduPoolEnd
+ *pdum_nwk.o(.bss.s_psNPduPoolEnd)
+
+.rom_workspace.pdum_nwk.o.s_hMutex
+ *pdum_nwk.o(.bss.s_hMutex)
+
+.rom_workspace.pdum_apl.o.s_hMutex
+ *pdum_apl.o(.bss.s_hMutex)
+
+.rom_workspace.pdum_apl.o.s_u16NumAPdus
+ *pdum_apl.o(.bss.s_u16NumAPdus)
+
+.rom_workspace.pdum_apl.o.s_asAPduPool
+ *pdum_apl.o(.bss.s_asAPduPool)
+
+.rom.PDUM_eNPduReadFooterNBO
+ *(.text.PDUM_eNPduReadFooterNBO)
+
+.rom.PDUM_eNPduReadHeaderNBO
+ *(.text.PDUM_eNPduReadHeaderNBO)
+
+.rom.PDUM_eNPduAppendDataNBO
+ *(.text.PDUM_eNPduAppendDataNBO)
+
+.rom.PDUM_eNPduAppendFooterNBO
+ *(.text.PDUM_eNPduAppendFooterNBO)
+
+.rom.PDUM_eNPduPrependHeaderNBO
+ *(.text.PDUM_eNPduPrependHeaderNBO)
+
+.rom.PDUM_eNPduAllocate
+ *(.text.PDUM_eNPduAllocate)
+
+.rom.PDUM_eNPduInitDescending
+ *(.text.PDUM_eNPduInitDescending)
+
+.rom.PDUM_eNPduInitAscending
+ *(.text.PDUM_eNPduInitAscending)
+
+.rom.PDUM_eNPduFree
+ *(.text.PDUM_eNPduFree)
+
+.rom.PDUM_eNPduClaimHeader
+ *(.text.PDUM_eNPduClaimHeader)
+
+.rom.PDUM_eNPduClaimFooter
+ *(.text.PDUM_eNPduClaimFooter)
+
+.rom.PDUM_eNPduClaimData
+ *(.text.PDUM_eNPduClaimData)
+
+.rom.PDUM_eNPduAscend
+ *(.text.PDUM_eNPduAscend)
+
+.rom.PDUM_eNPduDescend
+ *(.text.PDUM_eNPduDescend)
+
+.rom.PDUM_eNPduWriteToBuffer
+ *(.text.PDUM_eNPduWriteToBuffer)
+
+.rom.PDUM_eNPduWriteFromBuffer
+ *(.text.PDUM_eNPduWriteFromBuffer)
+
+.rom.PDUM_eNPduWriteDataToBuffer
+ *(.text.PDUM_eNPduWriteDataToBuffer)
+
+.rom.PDUM_eNPduWriteDataFromBuffer
+ *(.text.PDUM_eNPduWriteDataFromBuffer)
+
+.rom.pdum_vNPduInit
+ *(.text.pdum_vNPduInit)
+
+.rom.PDUM_pvAPduInstanceGetPayload
+ *(.text.PDUM_pvAPduInstanceGetPayload)
+
+.rom.PDUM_u16APduInstanceGetPayloadSize
+ *(.text.PDUM_u16APduInstanceGetPayloadSize)
+
+.rom.PDUM_eAPduInstanceSetPayloadSize
+ *(.text.PDUM_eAPduInstanceSetPayloadSize)
+
+.rom.PDUM_u16APduGetSize
+ *(.text.PDUM_u16APduGetSize)
+
+.rom.PDUM_u16APduInstanceWriteStrNBO
+ *(.text.PDUM_u16APduInstanceWriteStrNBO)
+
+.rom.PDUM_u16APduInstanceWriteNBO
+ *(.text.PDUM_u16APduInstanceWriteNBO)
+
+.rom.PDUM_u16APduInstanceReadNBO
+ *(.text.PDUM_u16APduInstanceReadNBO)
+
+.rom.PDUM_hAPduAllocateAPduInstance
+ *(.text.PDUM_hAPduAllocateAPduInstance)
+
+.rom.PDUM_eAPduFreeAPduInstance
+ *(.text.PDUM_eAPduFreeAPduInstance)
+
+.rom.pdum_vAPduInit
+ *(.text.pdum_vAPduInit)
+
+.rom.PDUM_u16SizeNBO
+ *(.text.PDUM_u16SizeNBO)
+
+.rom.pdum_u16WriteNBO
+ *(.text.pdum_u16WriteNBO)
+
+.rom.pdum_u16WriteStrNBO
+ *(.text.pdum_u16WriteStrNBO)
+
+.rom.pdum_u16ReadNBO
+ *(.text.pdum_u16ReadNBO)
+
+.rom.vDumpPayload
+ *(.text.vDumpPayload)
+
+.rom.PDUM_vDBGPrintNPdu
+ *(.text.PDUM_vDBGPrintNPdu)
+                0x04000084                _pdum_g_aprPatchTable = 0x4000084
+
+.rom_workspace.pwrm.o.s_bWakeTimerActive
+ *pwrm.o(.bss.s_bWakeTimerActive)
+
+.rom_workspace.pwrm.o.s_ePowerMode
+ *pwrm.o(.bss.s_ePowerMode)
+
+.rom_workspace.pwrm.o.s_psPreSleepCallbacks
+ *pwrm.o(.bss.s_psPreSleepCallbacks)
+
+.rom_workspace.pwrm.o.u32CalibrationValue
+ *pwrm.o(.bss.u32CalibrationValue)
+
+.rom_workspace.pwrm.o.psNextWake
+ *pwrm.o(.bss.psNextWake)
+
+.rom.pwrm_vRegisterPreSleepCallback
+ *(.text.pwrm_vRegisterPreSleepCallback)
+
+.rom.PWRM_vSetupDozeMonitor
+ *(.text.PWRM_vSetupDozeMonitor)
+
+.rom.PWRM_vResetDozeTimers
+ *(.text.PWRM_vResetDozeTimers)
+
+.rom.PWRM_u32GetDozeTime
+ *(.text.PWRM_u32GetDozeTime)
+
+.rom.PWRM_u32GetDozeElapsedTime
+ *(.text.PWRM_u32GetDozeElapsedTime)
+
+.rom.PWRM_vWakeInterruptCallback
+ *(.text.PWRM_vWakeInterruptCallback)
+
+.rom.PWRM_eScheduleActivity
+ *(.text.PWRM_eScheduleActivity)
+                0x04000380                pwrm_psWakeupCallbacks = 0x4000380
+
+.rom_workspace.dbg.o.vResetFn
+ *dbg.o(.bss.vResetFn)
+
+.rom_workspace.dbg.o.vPutchFn
+ *dbg.o(.bss.vPutchFn)
+
+.rom_workspace.dbg.o.vFlushFn
+ *dbg.o(.bss.vFlushFn)
+
+.rom_workspace.dbg.o.vStopFn
+ *dbg.o(.bss.vStopFn)
+
+.rom_workspace.dbg_uart.o.u8AhiUart
+ *dbg_uart.o(.bss.u8AhiUart)
+
+.rom_workspace.dbg.o.bIsNewline
+ *dbg.o(.data.bIsNewline)
+
+.rom_workspace.dbg_uart.o.u8AhiBaudRate
+ *dbg_uart.o(.data.u8AhiBaudRate)
+
+.rom.DBG_vReset
+ *(.text.DBG_vReset)
+
+.rom.vWriteUIntToBuffer
+ *(.text.vWriteUIntToBuffer)
+
+.rom.vNewLine
+ *(.text.vNewLine)
+
+.rom.dbg_vAssertImpl
+ *(.text.dbg_vAssertImpl)
+
+.rom.DBG_vUartFlush
+ *(.text.DBG_vUartFlush)
+
+.rom.DBG_vUartPutch
+ *(.text.DBG_vUartPutch)
+
+.rom.DBG_vUartInitHardware
+ *(.text.DBG_vUartInitHardware)
+                0x04000110                _dbg_g_aprPatchTable = 0x4000110
+
+.rom_workspace.zps_mac.o.s_hMacMutex
+ *zps_mac.o(.bss.s_hMacMutex)
+
+.rom_workspace.zps_mac.o.s_sDcfmIndMgr
+ *zps_mac.o(.bss.s_sDcfmIndMgr)
+
+.rom_workspace.zps_mac.o.prHandleMlmeReqRsp
+ *zps_mac.o(.data.prHandleMlmeReqRsp)
+
+.rom_workspace.zps_mac.o.prHandleMcpsReqRsp
+ *zps_mac.o(.data.prHandleMcpsReqRsp)
+
+.rom.MAC_vRegisterMcpsVsDcfmIndCallbacks
+ *(.text.MAC_vRegisterMcpsVsDcfmIndCallbacks)
+
+.rom.MAC_vHandleMlmeVsReqRsp
+ *(.text.MAC_vHandleMlmeVsReqRsp)
+
+.rom.MAC_vHandleMcpsVsReqRsp
+ *(.text.MAC_vHandleMcpsVsReqRsp)
+
+.rom.MAC_vSetMutex
+ *(.text.MAC_vSetMutex)
+                0x040001b4                _zpsmac_g_aprPatchTable = 0x40001b4
+
+.rom.u32NumberOfEmptyMasksInGroupTable
+ *(.text.u32NumberOfEmptyMasksInGroupTable)
+
+.rom.vSetAllEndpointBitmasksForGroup
+ *(.text.vSetAllEndpointBitmasksForGroup)
+
+.rom.eHandleAddEntryToGroupTable
+ *(.text.eHandleAddEntryToGroupTable)
+
+.rom.zps_vNwkLibU16ToPayload
+ *(.text.zps_vNwkLibU16ToPayload)
+
+.rom.zps_vNwkLibU32ToPayload
+ *(.text.zps_vNwkLibU32ToPayload)
+
+.rom.zps_vNwkLibU64ToPayload
+ *(.text.zps_vNwkLibU64ToPayload)
+
+.rom.zps_u16NwkLibFromPayload
+ *(.text.zps_u16NwkLibFromPayload)
+
+.rom.zps_u32NwkLibFromPayload
+ *(.text.zps_u32NwkLibFromPayload)
+
+.rom.zps_u64NwkLibFromPayload
+ *(.text.zps_u64NwkLibFromPayload)
+
+.rom.zps_vNwkSlistInit
+ *(.text.zps_vNwkSlistInit)
+
+.rom.zps_vNwkSlistAddToHead
+ *(.text.zps_vNwkSlistAddToHead)
+
+.rom.zps_vNwkSlistAddToTail
+ *(.text.zps_vNwkSlistAddToTail)
+
+.rom.zps_vNwkSlistInsertAfter
+ *(.text.zps_vNwkSlistInsertAfter)
+
+.rom.zps_psNwkSlistRemoveFromHead
+ *(.text.zps_psNwkSlistRemoveFromHead)
+
+.rom.zps_psNwkSlistRemove
+ *(.text.zps_psNwkSlistRemove)
+
+.rom.zps_vNwkSlistMakeLimboNode
+ *(.text.zps_vNwkSlistMakeLimboNode)
+
+.rom.zps_bNwkSlistIsLimboNode
+ *(.text.zps_bNwkSlistIsLimboNode)
+
+.flashheader    0x04000cd0       0x24
+                0x04000cd0                _flash_beg = <code 342> (.)
+                0x04000cd0        0x4 LONG 0xe0e0
+                0x04000cd4        0x4 LONG 0x4000d00 <code 342> (_data_beg)
+                0x04000cd8        0x4 LONG 0x7008 _data_len
+                0x04000cdc        0x4 LONG 0x1060035
+                0x04000ce0        0x4 LONG 0x0
+                0x04000ce4        0x4 LONG 0x4007d08 <code 342> (_bss_beg)
+                0x04000ce8        0x4 LONG 0x1cf4 _bss_len
+                0x04000cec        0x4 LONG 0x4002a41 <code 342> (_AppWarmStart)
+                0x04000cf0        0x4 LONG 0x4002a0b <code 342> (_AppColdStart)
+
+.oad            0x04000cf4        0xc
+                0x04000cf4        0x4 LONG 0xffffffff
+                0x04000cf8        0x4 LONG 0xffffffff
+                0x04000cfc        0x4 LONG 0xf0f0f0f0
+
+.mac            0x04000d00       0x20
+                0x04000d00                _enc_start = <code 342> (.)
+                0x04000d00                _data_beg = <code 342> (.)
+                0x04000d00        0x4 LONG 0xffffffff
+                0x04000d04        0x4 LONG 0xffffffff
+                0x04000d08        0x4 LONG 0xffffffff
+                0x04000d0c        0x4 LONG 0xffffffff
+                0x04000d10                _FlsLinkKey = <code 342> (.)
+                0x04000d10        0x4 LONG 0xffffffff
+                0x04000d14        0x4 LONG 0xffffffff
+                0x04000d18        0x4 LONG 0xffffffff
+                0x04000d1c        0x4 LONG 0xffffffff
+                0x00000000                _enc_offset = (_enc_start & 0xf)
+                [0x00000030]                _enc_start = (_enc_start - _flash_beg)
+
+.heap_location  0x04000d20        0x8
+                0x04000d20                _heap_location = .
+                0x04000d20        0x4 LONG 0x40099fc <code 342> (_heap_start)
+                0x04000d24        0x4 LONG 0x401f000 <code 342> (_heap_end)
+
+.rtc_clt        0x04000d28       0x28
+                0x04000d28        0x4 LONG 0x0
+                0x04000d2c        0x4 LONG 0x0
+                0x04000d30        0x4 LONG 0x0
+                0x04000d34        0x4 LONG 0x0
+                0x04000d38        0x4 LONG 0x0
+                0x04000d3c        0x4 LONG 0x0
+                0x04000d40        0x4 LONG 0x0
+                0x04000d44        0x4 LONG 0x0
+                0x04000d48        0x4 LONG 0x0
+                0x04000d4c        0x4 LONG 0x0
+
+.ro_se_cert     0x04000d50        0x0
+                0x04000d50                _FlsZcCert = <code 342> (.)
+ *(.ro_se_cert)
+
+.ro_se_pvKey    0x04000d50        0x0
+                0x04000d50                _FlsPrivateKey = <code 342> (.)
+ *(.ro_se_pvKey)
+
+.ro_se_customData
+                0x04000d50        0x0
+                0x04000d50                _FlsCustomDatabeg = <code 342> (.)
+ *(.ro_se_customData)
+                0x04000d50                _FlsCustomDataEnd = <code 342> (.)
+
+.rodata         0x04000d50      0x456
+ *(.rodata*)
+ .rodata.str1.1
+                0x04000d50       0x4c Router.o
+ .rodata.str1.1
+                0x04000d9c      0x2f1 App.o
+                                0x2f2 (size before relaxing)
+ .rodata.str1.1
+                0x0400108d       0x11 Printf.o
+ *fill*         0x0400109e        0x2 00
+ .rodata.psPAR  0x040010a0        0x4 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                0x040010a0                _psPAR
+ .rodata.u8CRCTable
+                0x040010a4      0x100 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ccitt8.o)
+ .rodata.str1.1
+                0x040011a4        0x2 /cygdrive/c/Jennic/Tools/ba-elf-ba2/bin/../lib/gcc/ba-elf/4.1.2/../../../../ba-elf/lib/ba2/libc.a(impure.o)
+
+.data           0x040011a8      0x4e0
+ *(.data*)
+ .data.sNetLayerBuffer
+                0x040011a8       0x24 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+ .data.sNetLayerChildBuffer
+                0x040011cc       0x24 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+ .data.sMacLayerBuffer
+                0x040011f0       0x24 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+ .data.sJenieBindingBuffer
+                0x04001214       0x24 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+ .data.sJenieGlobalsBuffer
+                0x04001238       0x24 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+ .data.gJpdmFlashType
+                0x0400125c        0x4 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JPDM.o)
+                0x0400125c                _gJpdmFlashType
+ .data.gJpdmSector
+                0x04001260        0x1 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JPDM.o)
+                0x04001260                _gJpdmSector
+ *fill*         0x04001261        0x3 00
+ .data.gJpdmSectorSize
+                0x04001264        0x4 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JPDM.o)
+                0x04001264                _gJpdmSectorSize
+ .data.bDoChildren
+                0x04001268        0x1 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ *fill*         0x04001269        0x3 00
+ .data.u32RoutePurgeTimer
+                0x0400126c        0x4 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .data.u32RoutePurgeInterval
+                0x04001270        0x4 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .data.u32RouteUpdateTimer
+                0x04001274        0x4 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .data.psTimerList
+                0x04001278        0x4 /cygdrive/c/Jennic/Chip/JN5148/Library/libMacPatch_JN5148.a(JN514x_MacPatch.o)
+                0x04001278                _psTimerList
+ .data.aprCCMStarVector
+                0x0400127c        0x4 /cygdrive/c/Jennic/Chip/JN5148/Library/libMacPatch_JN5148.a(JN514x_MacPatch.o)
+                0x0400127c                _aprCCMStarVector
+ .data          0x04001280      0x408 /cygdrive/c/Jennic/Tools/ba-elf-ba2/bin/../lib/gcc/ba-elf/4.1.2/../../../../ba-elf/lib/ba2/libc.a(impure.o)
+                0x04001280                __impure_ptr
+
+.gdb
+ libSWDebug_JN5148.a(.text)
+ *(.dbgtxt*)
+
+.text           0x04001688     0x667e
+                0x04001688                _text_start = <code 342> (.)
+ *(.text*)
+ .text.vJenie_CbHwEvent
+                0x04001688        0x6 Router.o
+                0x04001688                _vJenie_CbHwEvent
+ .text.vJenie_CbStackDataEvent
+                0x0400168e        0x6 Router.o
+                0x0400168e                _vJenie_CbStackDataEvent
+ .text.vJenie_CbStackMgmtEvent
+                0x04001694        0x6 Router.o
+                0x04001694                _vJenie_CbStackMgmtEvent
+ .text.vJenie_CbMain
+                0x0400169a        0x6 Router.o
+                0x0400169a                _vJenie_CbMain
+ .text.vJenie_CbConfigureNetwork
+                0x040016a0       0x66 Router.o
+                0x040016a0                _vJenie_CbConfigureNetwork
+ .text.vJenie_CbInit
+                0x04001706       0x3f Router.o
+                0x04001706                _vJenie_CbInit
+ .text.vApp_CbStackDataEvent
+                0x04001745      0x127 App.o
+                0x04001745                _vApp_CbStackDataEvent
+ .text.vApp_CbHwEvent
+                0x0400186c      0x408 App.o
+                0x0400186c                _vApp_CbHwEvent
+ .text.vApp_CbStackMgmtEvent
+                0x04001c74      0x218 App.o
+                0x04001c74                _vApp_CbStackMgmtEvent
+ .text.vApp_CbMain
+                0x04001e8c       0x55 App.o
+                0x04001e8c                _vApp_CbMain
+ .text.vApp_CbInit
+                0x04001ee1       0xbb App.o
+                0x04001ee1                _vApp_CbInit
+ .text.vNum2String
+                0x04001f9c       0x56 Printf.o
+ .text.vPutC    0x04001ff2       0x20 Printf.o
+                0x04001ff2                _vPutC
+ .text.vPrintf  0x04002012      0x159 Printf.o
+                0x04002012                _vPrintf
+ .text.vUART_Init
+                0x0400216b       0x70 Printf.o
+                0x0400216b                _vUART_Init
+ .text.vUART_printInit
+                0x040021db       0x14 Printf.o
+                0x040021db                _vUART_printInit
+ .text.eJenie_BindService
+                0x040021ef       0xb9 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+                0x040021ef                _eJenie_BindService
+ .text.u8BitMapToValue
+                0x040022a8       0x26 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+ .text.vApp_HwEvent
+                0x040022ce        0x6 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+                0x040022ce                _vApp_HwEvent
+ .text.vApp_StackEvent
+                0x040022d4      0x250 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+                0x040022d4                _vApp_StackEvent
+ .text.vApp_Main
+                0x04002524        0x6 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+                0x04002524                _vApp_Main
+ .text.vApp_Init
+                0x0400252a       0x12 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+                0x0400252a                _vApp_Init
+ .text.vApp_ConfigureNetwork
+                0x0400253c      0x4cf /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+                0x0400253c                _vApp_ConfigureNetwork
+ .text.AppColdStart
+                0x04002a0b       0x36 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+                0x04002a0b                _AppColdStart
+ .text.AppWarmStart
+                0x04002a41       0x15 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+                0x04002a41                _AppWarmStart
+ .text.eJenie_Sleep
+                0x04002a56        0xe /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+                0x04002a56                _eJenie_Sleep
+ .text.eJenie_SetSleepPeriod
+                0x04002a64        0xe /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+                0x04002a64                _eJenie_SetSleepPeriod
+ .text.eJenie_SendDataToBoundService
+                0x04002a72       0x99 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+                0x04002a72                _eJenie_SendDataToBoundService
+ .text.eJenie_SendData
+                0x04002b0b       0x94 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+                0x04002b0b                _eJenie_SendData
+ .text.bJenie_GetPermitJoin
+                0x04002b9f        0xc /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+                0x04002b9f                _bJenie_GetPermitJoin
+ .text.eJenie_SetPermitJoin
+                0x04002bab        0xe /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+                0x04002bab                _eJenie_SetPermitJoin
+ .text.eJenie_RequestServices
+                0x04002bb9       0x28 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+                0x04002bb9                _eJenie_RequestServices
+ .text.eJenie_RegisterServices
+                0x04002be1       0x26 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+                0x04002be1                _eJenie_RegisterServices
+ .text.eJenie_Start
+                0x04002c07       0x83 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+                0x04002c07                _eJenie_Start
+ .text.vJPI_DioWake
+                0x04002c8a       0x1e /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JPI.o)
+                0x04002c8a                _vJPI_DioWake
+ .text.bNvmRead
+                0x04002ca8       0x1d /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JPDM.o)
+ .text.vInit    0x04002cc5       0x68 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JPDM.o)
+ .text.eJPDM_RestoreContext
+                0x04002d2d       0xf3 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JPDM.o)
+                0x04002d2d                _eJPDM_RestoreContext
+ .text.vApi_Start_ED
+                0x04002e20        0x3 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                0x04002e20                _vApi_Start_ED
+ .text.vApi_SetAssociationState
+                0x04002e23       0x26 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                0x04002e23                _vApi_SetAssociationState
+ .text.bApi_GetAssociationState
+                0x04002e49        0x9 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                0x04002e49                _bApi_GetAssociationState
+ .text.vApi_Resume
+                0x04002e52        0x3 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                0x04002e52                _vApi_Resume
+ .text.vApi_SetSleepPeriod
+                0x04002e55        0x3 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                0x04002e55                _vApi_SetSleepPeriod
+ .text.vApi_Sleep
+                0x04002e58        0x3 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                0x04002e58                _vApi_Sleep
+ .text.vApi_GetNetworkConfigBuffer
+                0x04002e5b       0x34 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                0x04002e5b                _vApi_GetNetworkConfigBuffer
+ .text.bApi_IsRouterLib
+                0x04002e8f        0x5 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                0x04002e8f                _bApi_IsRouterLib
+ .text.bNwk_IsPanCoord
+                0x04002e94        0x9 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                0x04002e94                _bNwk_IsPanCoord
+ .text.bNwk_IsChild
+                0x04002e9d       0x48 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                0x04002e9d                _bNwk_IsChild
+ .text.bNwk_IsParent
+                0x04002ee5       0x3b /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                0x04002ee5                _bNwk_IsParent
+ .text.vNwk_ResetFailedPacketCount
+                0x04002f20        0x9 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                0x04002f20                _vNwk_ResetFailedPacketCount
+ .text.vNwk_ResetUnAckPingCount
+                0x04002f29        0x9 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                0x04002f29                _vNwk_ResetUnAckPingCount
+ .text.vNwk_SetServices
+                0x04002f32       0x4f /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                0x04002f32                _vNwk_SetServices
+ .text.bNwk_GetServices
+                0x04002f81       0x39 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                0x04002f81                _bNwk_GetServices
+ .text.vNwk_SetDefSvcResp
+                0x04002fba        0x9 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                0x04002fba                _vNwk_SetDefSvcResp
+ .text.vNwk_ReEstablishRoute
+                0x04002fc3       0x1b /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                0x04002fc3                _vNwk_ReEstablishRoute
+ .text.bNwk_IsSleepingChild
+                0x04002fde       0x12 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                0x04002fde                _bNwk_IsSleepingChild
+ .text.vNwk_SetChildActiveRoutes
+                0x04002ff0       0x1a /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                0x04002ff0                _vNwk_SetChildActiveRoutes
+ .text.bNwk_IsActiveChild
+                0x0400300a       0x12 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                0x0400300a                _bNwk_IsActiveChild
+ .text.psNwk_GetChildAddress
+                0x0400301c        0xf /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                0x0400301c                _psNwk_GetChildAddress
+ .text.psNwk_GetParentAddr
+                0x0400302b       0x15 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                0x0400302b                _psNwk_GetParentAddr
+ .text.u16Api_GetDepth
+                0x04003040        0x9 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                0x04003040                _u16Api_GetDepth
+ .text.bCheckRxSeqNo
+                0x04003049       0xbe /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text.vNwk_ResetGpTimer
+                0x04003107        0x9 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                0x04003107                _vNwk_ResetGpTimer
+ .text.vNwk_IncRoutingEntry
+                0x04003110       0x11 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                0x04003110                _vNwk_IncRoutingEntry
+ .text.vNwk_ImportComplete
+                0x04003121       0x84 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                0x04003121                _vNwk_ImportComplete
+ .text.vClearScanList
+                0x040031a5       0x2b /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text.vScanOrAssociate_Backoff
+                0x040031d0       0x14 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text.vStartAssociate_Backoff
+                0x040031e4        0x3 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text.vRouterActiveScanResponse_Backoff
+                0x040031e7        0xb /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text.vNwk_ChildDepthSet
+                0x040031f2       0x31 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                0x040031f2                _vNwk_ChildDepthSet
+ .text.vNwk_SetDepth
+                0x04003223       0x53 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                0x04003223                _vNwk_SetDepth
+ .text.bNwk_GetNextHopAddress
+                0x04003276       0x45 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                0x04003276                _bNwk_GetNextHopAddress
+ .text.vApi_Start_CR
+                0x040032bb       0xb3 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                0x040032bb                _vApi_Start_CR
+ .text.vBackOff
+                0x0400336e       0x47 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text.vNwk_DeleteChild
+                0x040033b5       0xa2 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                0x040033b5                _vNwk_DeleteChild
+ .text.vStartCoord
+                0x04003457       0xdd /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text.vInitDeviceState
+                0x04003534      0x14a /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text.vInitSystem_CR
+                0x0400367e      0x183 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text.vNwk_ResetStack
+                0x04003801       0x9f /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                0x04003801                _vNwk_ResetStack
+ .text.eApi_LeaveNetwork_CR
+                0x040038a0       0x8b /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                0x040038a0                _eApi_LeaveNetwork_CR
+ .text.eApi_LeaveNetwork
+                0x0400392b        0x6 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                0x0400392b                _eApi_LeaveNetwork
+ .text.vApi_Recover_CR
+                0x04003931       0x61 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                0x04003931                _vApi_Recover_CR
+ .text.vApi_Recover
+                0x04003992        0x6 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                0x04003992                _vApi_Recover
+ .text.bNwk_ResetMac
+                0x04003998       0x94 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                0x04003998                _bNwk_ResetMac
+ .text.vStartScan
+                0x04003a2c       0xdc /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text.vPanCoordStateMachine
+                0x04003b08       0x78 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text.vScanOrAssociate
+                0x04003b80       0xde /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ *fill*         0x04003c5e        0x2 00
+ .text.vProcessIncomingMlme
+                0x04003c60      0x844 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text.vNwk_RouteEstablished
+                0x040044a4       0xc8 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                0x040044a4                _vNwk_RouteEstablished
+ .text.vRouterStateMachine
+                0x0400456c      0x1a4 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text.eNwk_TransmitPacket
+                0x04004710      0x28c /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                0x04004710                _eNwk_TransmitPacket
+ .text.vNwk_SendEstablishRoute
+                0x0400499c       0x71 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                0x0400499c                _vNwk_SendEstablishRoute
+ .text.vEstablishRoute_Backoff
+                0x04004a0d       0x21 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text.vProcessInternalTimer
+                0x04004a2e      0x52b /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text.vNwk_RejectNode
+                0x04004f59       0x4d /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                0x04004f59                _vNwk_RejectNode
+ .text.vProcessIncomingMcps
+                0x04004fa6      0x2c7 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text.vApi_WarmInitJenNet_ED
+                0x0400526d        0x6 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                0x0400526d                _vApi_WarmInitJenNet_ED
+ .text.vProcessEventQueues
+                0x04005273       0x6e /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .text.vApi_InitJenNet_CR
+                0x040052e1      0x15c /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                0x040052e1                _vApi_InitJenNet_CR
+ .text.vApi_InitJenNet_ED
+                0x0400543d        0x6 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                0x0400543d                _vApi_InitJenNet_ED
+ .text.vApi_InitStack
+                0x04005443       0x48 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                0x04005443                _vApi_InitStack
+ .text.vPAR_DeleteRoutingEntry
+                0x0400548b       0x5e /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+                0x0400548b                _vPAR_DeleteRoutingEntry
+ .text.u16AddNextHop
+                0x040054e9       0x7f /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+ .text.u16GetNextHop
+                0x04005568       0x56 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+                0x04005568                _u16GetNextHop
+ .text.vQDeferredResponse
+                0x040055be       0x44 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+ .text.vPAR_SendFindNode
+                0x04005602       0x41 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+                0x04005602                _vPAR_SendFindNode
+ .text.eApi_RequestServices_CR
+                0x04005643       0x5f /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+                0x04005643                _eApi_RequestServices_CR
+ .text.eApi_RequestServices
+                0x040056a2        0x6 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+                0x040056a2                _eApi_RequestServices
+ .text.eApi_SendDataToNwk_CR
+                0x040056a8       0x45 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+                0x040056a8                _eApi_SendDataToNwk_CR
+ .text.eApi_SendDataToNwk
+                0x040056ed        0x6 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+                0x040056ed                _eApi_SendDataToNwk
+ .text.vPAR_SendPurgeRoute
+                0x040056f3       0x4e /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+                0x040056f3                _vPAR_SendPurgeRoute
+ .text.vProcessRepairRoute
+                0x04005741       0x2b /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+ .text.vPAR_SendDeleteRoute
+                0x0400576c       0x46 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+                0x0400576c                _vPAR_SendDeleteRoute
+ .text.eApi_SendDataToCoord_CR
+                0x040057b2       0x79 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+                0x040057b2                _eApi_SendDataToCoord_CR
+ .text.eApi_SendDataToCoord
+                0x0400582b        0x6 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+                0x0400582b                _eApi_SendDataToCoord
+ .text.eRoutePacket
+                0x04005831       0xfb /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+ .text.vProcessResponseRequest
+                0x0400592c       0x55 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+ .text.vPAR_ProcessDefSvcRespQ
+                0x04005981       0x82 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+                0x04005981                _vPAR_ProcessDefSvcRespQ
+ .text.vProcessPurgeRoute
+                0x04005a03       0x5f /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+ .text.eApi_SendDataToSvc_CR
+                0x04005a62       0x7e /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+                0x04005a62                _eApi_SendDataToSvc_CR
+ .text.eApi_SendDataToSvc
+                0x04005ae0        0x6 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+                0x04005ae0                _eApi_SendDataToSvc
+ .text.eApi_SendDataToPeer_CR
+                0x04005ae6       0x5c /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+                0x04005ae6                _eApi_SendDataToPeer_CR
+ .text.eApi_SendDataToPeer
+                0x04005b42        0x6 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+                0x04005b42                _eApi_SendDataToPeer
+ .text.vCheckServices
+                0x04005b48       0x56 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+ .text.vProcessDataToCoord
+                0x04005b9e       0x50 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+ .text.vProcessServiceRequest
+                0x04005bee      0x10b /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+ .text.vPAR_CheckPendingActions
+                0x04005cf9       0x36 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+                0x04005cf9                _vPAR_CheckPendingActions
+ .text.vDeleteRoute
+                0x04005d2f      0x143 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+ .text.vPing    0x04005e72       0x41 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+ .text.vPAR_InitRoutingTable
+                0x04005eb3       0x29 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+                0x04005eb3                _vPAR_InitRoutingTable
+ .text.vUnknownNode
+                0x04005edc       0x26 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+ .text.vEstablishRoute
+                0x04005f02      0x230 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+ .text.vProcessSetDepth
+                0x04006132       0x45 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+ *fill*         0x04006177        0x1 00
+ .text.vPAR_ProcessPacket
+                0x04006178      0x6b0 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+                0x04006178                _vPAR_ProcessPacket
+ .text.vPAR_Init
+                0x04006828       0x30 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+                0x04006828                _vPAR_Init
+ .text.eApi_RegisterServices
+                0x04006858        0xe /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+                0x04006858                _eApi_RegisterServices
+ .text.vFifoInit
+                0x04006866       0x14 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NwkPktQueue.o)
+ .text.pvFifoPull
+                0x0400687a       0x23 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NwkPktQueue.o)
+ .text.psNwkPktQueueGetBuffer
+                0x0400689d        0xc /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NwkPktQueue.o)
+                0x0400689d                _psNwkPktQueueGetBuffer
+ .text.psNwkPktReadData
+                0x040068a9        0xc /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NwkPktQueue.o)
+                0x040068a9                _psNwkPktReadData
+ .text.bFifoPush
+                0x040068b5       0x28 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NwkPktQueue.o)
+ .text.vNwkPktQueuePostData
+                0x040068dd        0xe /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NwkPktQueue.o)
+                0x040068dd                _vNwkPktQueuePostData
+ .text.vNwkPktQueueReturnDataBuffer
+                0x040068eb        0xe /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NwkPktQueue.o)
+                0x040068eb                _vNwkPktQueueReturnDataBuffer
+ .text.vNwkPktQueueInit
+                0x040068f9       0x4f /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NwkPktQueue.o)
+                0x040068f9                _vNwkPktQueueInit
+ .text.vFifoInit
+                0x04006948       0x14 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(AppQueueApi.o)
+ .text.pvFifoPull
+                0x0400695c       0x23 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(AppQueueApi.o)
+ .text.psAppQApiGetMcpsBuffer
+                0x0400697f       0x20 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(AppQueueApi.o)
+ .text.psAppQApiGetMlmeBuffer
+                0x0400699f       0x20 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(AppQueueApi.o)
+ .text.bFifoPush
+                0x040069bf       0x28 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(AppQueueApi.o)
+ .text.vAppQApiPostMcps
+                0x040069e7       0x28 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(AppQueueApi.o)
+ .text.vAppQApiPostMlme
+                0x04006a0f       0x28 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(AppQueueApi.o)
+ .text.vAppQApiPostHwInt
+                0x04006a37       0x64 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(AppQueueApi.o)
+                0x04006a37                _vAppQApiPostHwInt
+ .text.vAppQApiReturnHwIndBuffer
+                0x04006a9b       0x22 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(AppQueueApi.o)
+ .text.vAppQApiReturnMcpsIndBuffer
+                0x04006abd       0x22 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(AppQueueApi.o)
+ .text.vAppQApiReturnMlmeIndBuffer
+                0x04006adf       0x22 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(AppQueueApi.o)
+ .text.psAppQApiReadHwInd
+                0x04006b01       0x22 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(AppQueueApi.o)
+ .text.psAppQApiReadMcpsInd
+                0x04006b23       0x22 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(AppQueueApi.o)
+ .text.psAppQApiReadMlmeInd
+                0x04006b45       0x22 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(AppQueueApi.o)
+ .text.u32AppQApiInit
+                0x04006b67      0x18b /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(AppQueueApi.o)
+ .text.u8CCITT8
+                0x04006cf2       0x23 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ccitt8.o)
+                0x04006cf2                _u8CCITT8
+ .text.vInterrupt_Suspend
+                0x04006d15       0x3e /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(Interrupt.o)
+                0x04006d15                _vInterrupt_Suspend
+ .text.vInterrupt_Resume
+                0x04006d53       0x3b /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(Interrupt.o)
+                0x04006d53                _vInterrupt_Resume
+ .text.eWBRTTxDonePatch
+                0x04006d8e       0x24 /cygdrive/c/Jennic/Chip/JN5148/Library/libMacPatch_JN5148.a(JN514x_MacPatch.o)
+ .text.eScanHandleEvtPatched
+                0x04006db2       0x51 /cygdrive/c/Jennic/Chip/JN5148/Library/libMacPatch_JN5148.a(JN514x_MacPatch.o)
+                0x04006db2                _eScanHandleEvtPatched
+ .text.bTACprocessUnexpectedBeaconPatched
+                0x04006e03       0x11 /cygdrive/c/Jennic/Chip/JN5148/Library/libMacPatch_JN5148.a(JN514x_MacPatch.o)
+                0x04006e03                _bTACprocessUnexpectedBeaconPatched
+ .text.pvAppApiGetMacHandle
+                0x04006e14       0x16 /cygdrive/c/Jennic/Chip/JN5148/Library/libMacPatch_JN5148.a(JN514x_MacPatch.o)
+                0x04006e14                _pvAppApiGetMacHandle
+ .text.u32AppApiInit
+                0x04006e2a      0x120 /cygdrive/c/Jennic/Chip/JN5148/Library/libMacPatch_JN5148.a(JN514x_MacPatch.o)
+                0x04006e2a                _u32AppApiInit
+ .text.MAC_vHandleTOFMlmeReqRsp
+                0x04006f4a       0x59 /cygdrive/c/Jennic/Chip/JN5148/Library/libMacPatch_JN5148.a(JN514x_MacPatch.o)
+                0x04006f4a                _MAC_vHandleTOFMlmeReqRsp
+ .text.vAppApiMlmeRequest
+                0x04006fa3       0x47 /cygdrive/c/Jennic/Chip/JN5148/Library/libMacPatch_JN5148.a(JN514x_MacPatch.o)
+                0x04006fa3                _vAppApiMlmeRequest
+ .text.bTACprocessFrameRXcompletePatch
+                0x04006fea       0x71 /cygdrive/c/Jennic/Chip/JN5148/Library/libMacPatch_JN5148.a(JN514x_MacPatch.o)
+ .text.vAppApiMcpsRequest
+                0x0400705b       0x20 /cygdrive/c/Jennic/Chip/JN5148/Library/libMacPatch_JN5148.a(JN514x_MacPatch.o)
+                0x0400705b                _vAppApiMcpsRequest
+ .text.eAppApiPlmeSet
+                0x0400707b       0x20 /cygdrive/c/Jennic/Chip/JN5148/Library/libMacPatch_JN5148.a(JN514x_MacPatch.o)
+                0x0400707b                _eAppApiPlmeSet
+ .text.eAppApiPlmeGet
+                0x0400709b       0x20 /cygdrive/c/Jennic/Chip/JN5148/Library/libMacPatch_JN5148.a(JN514x_MacPatch.o)
+                0x0400709b                _eAppApiPlmeGet
+ .text.pvAppApiGetMacAddrLocation
+                0x040070bb       0x16 /cygdrive/c/Jennic/Chip/JN5148/Library/libMacPatch_JN5148.a(JN514x_MacPatch.o)
+                0x040070bb                _pvAppApiGetMacAddrLocation
+ .text.vTAMDEint1FiredTrackingBeaconPatch
+                0x040070d1       0xcf /cygdrive/c/Jennic/Chip/JN5148/Library/libMacPatch_JN5148.a(JN514x_MacPatch.o)
+ .text.vTSCsetOutgoingInfo_Patched
+                0x040071a0       0xca /cygdrive/c/Jennic/Chip/JN5148/Library/libMacPatch_JN5148.a(JN514x_MacPatch.o)
+                0x040071a0                _vTSCsetOutgoingInfo_Patched
+ .text.vXCV_IntHandlerPhyPatch
+                0x0400726a       0xca /cygdrive/c/Jennic/Chip/JN5148/Library/libMacPatch_JN5148.a(JN514x_MacPatch.o)
+                0x0400726a                _vXCV_IntHandlerPhyPatch
+ .text.vMlmeCallbackPatch
+                0x04007334       0x45 /cygdrive/c/Jennic/Chip/JN5148/Library/libMacPatch_JN5148.a(JN514x_MacPatch.o)
+ .text.vBbcIdleBugWorkaround
+                0x04007379       0x22 /cygdrive/c/Jennic/Chip/JN5148/Library/libMacPatch_JN5148.a(JN514x_MacPatch.o)
+ .text.vTAMDEint1FiredTrackingPatch
+                0x0400739b       0x95 /cygdrive/c/Jennic/Chip/JN5148/Library/libMacPatch_JN5148.a(JN514x_MacPatch.o)
+                0x0400739b                _vTAMDEint1FiredTrackingPatch
+ .text.vPhySetChannelPatch
+                0x04007430       0x34 /cygdrive/c/Jennic/Chip/JN5148/Library/libMacPatch_JN5148.a(JN514x_MacPatch.o)
+                0x04007430                _vPhySetChannelPatch
+ .text.vExpireHead
+                0x04007464       0x37 /cygdrive/c/Jennic/Chip/JN5148/Library/libMacPatch_JN5148.a(JN514x_MacPatch.o)
+ .text.TSV_eExpireProcPatch
+                0x0400749b       0x2f /cygdrive/c/Jennic/Chip/JN5148/Library/libMacPatch_JN5148.a(JN514x_MacPatch.o)
+                0x0400749b                _TSV_eExpireProcPatch
+ .text.XCV_vCtorPatch
+                0x040074ca      0x14b /cygdrive/c/Jennic/Chip/JN5148/Library/libMacPatch_JN5148.a(JN514x_MacPatch.o)
+                0x040074ca                _XCV_vCtorPatch
+ .text.eWBcnRxDonePatch
+                0x04007615       0x7c /cygdrive/c/Jennic/Chip/JN5148/Library/libMacPatch_JN5148.a(JN514x_MacPatch.o)
+ .text.vScan2006PostDcfm
+                0x04007691       0x9e /cygdrive/c/Jennic/Chip/JN5148/Library/libMacPatch_JN5148.a(JN514x_MacPatch.o)
+ .text.eGenTmrExpiryPatch
+                0x0400772f       0x6b /cygdrive/c/Jennic/Chip/JN5148/Library/libMacPatch_JN5148.a(JN514x_MacPatch.o)
+ .text.vXCV_IntHandlerBbcPatch
+                0x0400779a      0x173 /cygdrive/c/Jennic/Chip/JN5148/Library/libMacPatch_JN5148.a(JN514x_MacPatch.o)
+ .text.vAHI_TimerDIOControl
+                0x0400790d       0x28 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_TimerPatch.o)
+                0x0400790d                _vAHI_TimerDIOControl
+ .text.vAHI_IntHandlerTimer0
+                0x04007935       0x26 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_TimerIntPatch.o)
+                0x04007935                _vAHI_IntHandlerTimer0
+ .text.vAHI_Timer0RegisterCallback
+                0x0400795b       0x18 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_TimerIntPatch.o)
+                0x0400795b                _vAHI_Timer0RegisterCallback
+ .text.vAHI_IntHandlerTimer1
+                0x04007973       0x26 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_TimerIntPatch.o)
+                0x04007973                _vAHI_IntHandlerTimer1
+ .text.vAHI_Timer1RegisterCallback
+                0x04007999       0x18 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_TimerIntPatch.o)
+                0x04007999                _vAHI_Timer1RegisterCallback
+ .text.vAHI_IntHandlerTimer2
+                0x040079b1       0x26 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_TimerIntPatch.o)
+                0x040079b1                _vAHI_IntHandlerTimer2
+ .text.vAHI_IntHandlerSi
+                0x040079d7       0x45 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SiPatch48.o)
+                0x040079d7                _vAHI_IntHandlerSi
+ .text.vAHI_SiRegisterCallback
+                0x04007a1c       0x18 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SiPatch48.o)
+                0x04007a1c                _vAHI_SiRegisterCallback
+ .text.vAHI_IntHandlerAnalogPeriph
+                0x04007a34       0x24 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_AnaloguePatch.o)
+                0x04007a34                _vAHI_IntHandlerAnalogPeriph
+ .text.vAHI_APRegisterCallback
+                0x04007a58        0x9 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_AnaloguePatch.o)
+                0x04007a58                _vAHI_APRegisterCallback
+ .text.u32AHI_Init
+                0x04007a61       0x98 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_InitPatch.o)
+                0x04007a61                _u32AHI_Init
+ .text.bAHI_FlashInit
+                0x04007af9       0xe9 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_FlashPatch_JN514x.o)
+                0x04007af9                _bAHI_FlashInit
+ .text.vAHI_IntHandlerAudioFifo
+                0x04007be2       0x25 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_FifoPatch.o)
+                0x04007be2                _vAHI_IntHandlerAudioFifo
+ .text.vAHI_DioWakeEnable
+                0x04007c07       0x20 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_DioPatch.o)
+                0x04007c07                _vAHI_DioWakeEnable
+ .text.vAHI_DioWakeEdge
+                0x04007c27       0x20 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_DioPatch.o)
+                0x04007c27                _vAHI_DioWakeEdge
+ .text          0x04007c47        0x0 /cygdrive/c/Jennic/Chip/JN5148/Library/libRomStdLib_JN5148.a(RomFunctions.o)
+ .text          0x04007c47       0x74 /cygdrive/c/Jennic/Platform/DK2/Library/libBoardLib_JN514x.a(Button.o)
+                0x04007c8f                _u8ButtonReadRfd
+                0x04007c47                _u8ButtonReadFfd
+ .text          0x04007cbb       0x4b /cygdrive/c/Jennic/Tools/ba-elf-ba2/bin/../lib/gcc/ba-elf/4.1.2/../../../../ba-elf/lib/ba2/libc.a(rand.o)
+                0x04007cd0                _rand
+                0x04007cbb                _srand
+                0x04007d06                _text_end = <code 342> (.)
+                0x04007d06                _data_end = <code 342> (.)
+                0x00007008                _data_len = (((_data_end - _data_beg) + 0x3) & 0xfffffffc)
+                0x04007d08                _overlay_start = <code 342> (ALIGN (0x4))
+                0x04007d08                _overlay_end = <code 342> (ALIGN (0x4))
+                0x00000000                _overlays = 0x0
+
+.overlay_location
+                0x04007d10        0x0
+                0x00000000                _overlay_len = 0x0
+                0x04007d10                _overlay_lma = ((((ADDR (.overlay_location) + SIZEOF (.overlay_location)) - _enc_offset) ALIGN 0x10) + _enc_offset)
+                0x02001000                _apvReg = 0x2001000
+                0x02001000                _apvSysReg = 0x2001000
+                0x02001c00                _apvAesReg = 0x2001c00
+                0x02001f00                _apvAnaReg = 0x2001f00
+                0x02002000                _apvGpioReg = 0x2002000
+                0x02003000                _apvUart0Reg = 0x2003000
+                0x02004000                _apvUart1Reg = 0x2004000
+                0x02005000                _apvTimer0Reg = 0x2005000
+                0x02006000                _apvTimer1Reg = 0x2006000
+                0x0200a000                _apvTimer2Reg = 0x200a000
+                0x02007000                _apvSiReg = 0x2007000
+                0x02008000                _apvSpiReg = 0x2008000
+                0x02009000                _apvSpiIpReg = 0x2009000
+                0x02009800                _apvSpiIpMem = 0x2009800
+                0x0200b000                _apvDaiReg = 0x200b000
+                0x0200c000                _apvSfifoReg = 0x200c000
+                0x00007040                _overlay_location = (ADDR (.overlay_location) - _flash_beg)
+                0x04007d08                _overlay_end = (_overlay_start + _overlay_len)
+                0x04007d08                . = _overlay_end
+                0x00000001                ASSERT ((_overlays < 0x800), Too many overlays)
+
+.bss            0x04007d08     0x1cf4
+                0x04007d08                _bss_beg = <code 342> (.)
+                0x04007d08                _bss_start = <code 342> (.)
+ *(.bss*)
+ .bss.asRoutingTable
+                0x04007d08      0x4b0 Router.o
+ .bss.bNetworkUp
+                0x040081b8        0x1 App.o
+ .bss.au8Led    0x040081b9        0x2 App.o
+ .bss.u8Tick    0x040081bb        0x1 App.o
+ .bss.u8Button  0x040081bc        0x1 App.o
+ *fill*         0x040081bd        0x3 00
+ .bss.u64Parent
+                0x040081c0        0x8 App.o
+ .bss.u64Last   0x040081c8        0x8 App.o
+ .bss.au16ButtonTimer
+                0x040081d0        0x4 App.o
+ .bss.u32Reg    0x040081d4        0x4 App.o
+ .bss.bReg      0x040081d8        0x1 App.o
+ .bss.bBound    0x040081d9        0x1 App.o
+ .bss.bSentService
+                0x040081da        0x1 App.o
+ .bss.bEndDevice
+                0x040081db        0x1 App.o
+ .bss.bSleep    0x040081dc        0x1 App.o
+ *fill*         0x040081dd        0x1 00
+ .bss.u16IdleTimer
+                0x040081de        0x2 App.o
+ .bss.vPutChar  0x040081e0        0x4 Printf.o
+ .bss.bHasBeenRecovered
+                0x040081e4        0x1 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+ *fill*         0x040081e5        0x3 00
+ .bss.sBindingTable
+                0x040081e8      0x180 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+ .bss.sJenie    0x04008368        0xc /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+ .bss.sGlobalSettings
+                0x04008374       0x30 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+ .bss.sJenNetInitData
+                0x040083a4       0x3c /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+ .bss.gJpdmFlashFuncTable
+                0x040083e0        0x4 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JPDM.o)
+                0x040083e0                _gJpdmFlashFuncTable
+ .bss.bFlashInitialised
+                0x040083e4        0x1 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JPDM.o)
+ *fill*         0x040083e5        0x1 00
+ .bss.u16NewFlashSize
+                0x040083e6        0x2 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JPDM.o)
+ .bss.psListHead
+                0x040083e8        0x4 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JPDM.o)
+ .bss.sFlashManagementHeader
+                0x040083ec        0x8 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JPDM.o)
+ .bss.u8DepthCurChild
+                0x040083f4        0x1 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .bss.u8CurChild
+                0x040083f5        0x1 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .bss.u16CurrentEntry
+                0x040083f6        0x2 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .bss.u16LastRouteReceived
+                0x040083f8        0x2 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ *fill*         0x040083fa        0x2 00
+ .bss.u32GpTimer
+                0x040083fc        0x4 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .bss.u8BeaconDisableTime
+                0x04008400        0x1 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .bss.u8JenNetTickCount.5263
+                0x04008401        0x1 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .bss.u8DefSvcResp
+                0x04008402        0x1 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ *fill*         0x04008403        0x1 00
+ .bss.prLocalAuthoriseCallback
+                0x04008404        0x4 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .bss.u8RepeatCount.5664
+                0x04008408        0x1 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .bss.u8Channel.5663
+                0x04008409        0x1 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .bss.u8Count.5700
+                0x0400840a        0x1 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ *fill*         0x0400840b        0x1 00
+ .bss.s_pvMac   0x0400840c        0x4 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .bss.s_psMacPib
+                0x04008410        0x4 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .bss.sChildren
+                0x04008414      0x268 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .bss.u8BeaconTimer
+                0x0400867c        0x1 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ *fill*         0x0400867d        0x3 00
+ .bss.prNwkAuthoriseCallback
+                0x04008680        0x4 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+ .bss.u8NextChild.5008
+                0x04008684        0x1 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+ *fill*         0x04008685        0x1 00
+ .bss.u16NextEntry.5007
+                0x04008686        0x2 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+ .bss.asDefSvcRespQ
+                0x04008688      0x154 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+ .bss.u8In      0x040087dc        0x1 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+ .bss.u8Out     0x040087dd        0x1 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+ *fill*         0x040087de        0x2 00
+ .bss.aprTofVectorRamTable
+                0x040087e0       0x24 /cygdrive/c/Jennic/Chip/JN5148/Library/libMacPatch_JN5148.a(JN514x_MacPatch.o)
+                0x040087e0                _aprTofVectorRamTable
+ .bss.b2003SecurityCompatibility
+                0x04008804        0x1 /cygdrive/c/Jennic/Chip/JN5148/Library/libMacPatch_JN5148.a(JN514x_MacPatch.o)
+                0x04008804                _b2003SecurityCompatibility
+ *fill*         0x04008805        0x3 00
+ .bss.prvUserTxStartedCallback
+                0x04008808        0x4 /cygdrive/c/Jennic/Chip/JN5148/Library/libMacPatch_JN5148.a(JN514x_MacPatch.o)
+                0x04008808                _prvUserTxStartedCallback
+ .bss.prTimer2AppCallback
+                0x0400880c        0x4 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_TimerIntPatch.o)
+ .bss.prTimer1AppCallback
+                0x04008810        0x4 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_TimerIntPatch.o)
+ .bss.prTimer0AppCallback
+                0x04008814        0x4 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_TimerIntPatch.o)
+ .bss.prSiAppCallback
+                0x04008818        0x4 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SiPatch48.o)
+ .bss.prApAppCallback
+                0x0400881c        0x4 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_AnaloguePatch.o)
+ .bss.prFifoAppCallback
+                0x04008820        0x4 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_FifoPatch.o)
+                0x04008820                _prFifoAppCallback
+ *(.scommon*)
+ COMMON         0x04008824       0x30 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+                0x04008824                _gJenie_RoutingTableSize
+                0x04008828                _gJenie_RouterPingPeriod
+                0x0400882a                _gJenie_RoutingEnabled
+                0x0400882c                _gJenie_EndDeviceScanSleep
+                0x04008830                _gJenie_NetworkApplicationID
+                0x04008834                _gJenie_RecoverChildrenFromJpdm
+                0x04008838                _gJenie_EndDevicePollPeriod
+                0x0400883c                _gJenie_EndDeviceChildActivityTimeout
+                0x04008840                _gJenie_MaxChildren
+                0x04008841                _gJenie_MaxFailedPkts
+                0x04008842                _gJenie_RecoverFromJpdm
+                0x04008843                _gJenie_Channel
+                0x04008844                _gJenie_MaxSleepingChildren
+                0x04008848                _gJenie_ScanChannels
+                0x0400884c                _gJenie_RoutingTableSpace
+                0x04008850                _gJenie_EndDevicePingInterval
+                0x04008851                _gJenie_MaxBcastTTL
+                0x04008852                _gJenie_PanID
+ COMMON         0x04008854      0x2fb /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+                0x04008854                _gEndDevicePollPeriod
+                0x04008858                _gEndDeviceScanSleep
+                0x0400885c                _gStackType
+                0x04008860                _gRouterPingPeriod
+                0x04008862                _gInternalTimer
+                0x04008864                _gEDChildActivityTimeout
+                0x04008868                _sTreeCommonSaved
+                0x04008acc                _gRoutingTableSize
+                0x04008ad0                _gChannel
+                0x04008ad1                _gMaxBcastTTL
+                0x04008ad4                _sTreeCommonNotSaved
+                0x04008b24                _gMaxFailedPkts
+                0x04008b26                _gPanID
+                0x04008b28                _gMaxSleepingChildren
+                0x04008b29                _gMaxChildren
+                0x04008b2a                _bPermitExtNwkPkts
+                0x04008b2c                _gEndDeviceScanTimeout
+                0x04008b30                _psRoutingTable
+                0x04008b34                _gMinBeaconLQI
+                0x04008b38                _gChildActivityTimeout
+                0x04008b3c                _gNetworkID
+                0x04008b40                _gpvRoutingTableSpace
+                0x04008b44                _gEndDevicePingInterval
+                0x04008b48                _gScanChannels
+                0x04008b4c                _gRouterEnableAutoPurge
+                0x04008b4d                _gRouterPurgeInactiveED
+                0x04008b4e                _gRouteImport
+ *fill*         0x04008b4f        0x1 00
+ COMMON         0x04008b50      0x26c /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NwkPktQueue.o)
+                0x04008b50                _sNwkPktBufferQueue
+                0x04008b60                _apvNwkPktBufferData
+                0x04008b78                _apvNwkPktData
+                0x04008b90                _sNwkPktQueue
+                0x04008ba0                _asNwkPktBuffer
+ COMMON         0x04008dbc      0xc24 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(AppQueueApi.o)
+                0x04008dbc                _prAppHwCallback
+                0x04008dc0                _asMlmeIndBuffer
+                0x04009510                _sHwIndQueue
+                0x04009520                _apvMlmeIndData
+                0x04009548                _sMcpsIndBufferQueue
+                0x04009558                _sMlmeIndQueue
+                0x04009568                _apvHwIndBufferData
+                0x04009580                _prAppMcpsCallback
+                0x04009584                _apvHwIndData
+                0x0400959c                _apvMcpsIndBufferData
+                0x040095b4                _apvMcpsIndData
+                0x040095cc                _sHwIndBufferQueue
+                0x040095dc                _asHwIndBuffer
+                0x04009604                _prAppMlmeCallback
+                0x04009608                _u8OverFlow
+                0x040096a0                _asMcpsIndBuffer
+                0x04009998                _apvMlmeIndBufferData
+                0x040099c0                _sMcpsIndQueue
+                0x040099d0                _sMlmeIndBufferQueue
+ COMMON         0x040099e0        0x8 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(Interrupt.o)
+                0x040099e0                _gu32_SR
+                0x040099e4                _gu32Counter
+ COMMON         0x040099e8       0x14 /cygdrive/c/Jennic/Chip/JN5148/Library/libMacPatch_JN5148.a(JN514x_MacPatch.o)
+                0x040099e8                _sBbcIdleBugTimer
+                0x040099f8                _prHigherMlmeCallback
+                0x040099fc                _bss_end = <code 342> (.)
+
+.heap           0x040099fc      0x800
+                0x040099fc                _heap_start = <code 342> (.)
+                0x0400a1fc                . = (. + _minimum_heap_size)
+ *fill*         0x040099fc      0x800 00
+
+.stack          0x0401f000     0x1000
+                0x0401f000                _heap_end = <code 342> (.)
+                0x0401f000                _stack_low_water_mark = <code 342> (.)
+                0x04020000                . = (. + _stack_size)
+ *fill*         0x0401f000     0x1000 00
+                0x00000001                ASSERT (((((_heap_start - 0x4000000) + _minimum_heap_size) + _stack_size) <= 0x20000), RAM Exhausted)
+
+.stab           0x00000000      0x564
+ *(.stab)
+ .stab          0x00000000      0x3e4 /cygdrive/c/Jennic/Tools/ba-elf-ba2/bin/../lib/gcc/ba-elf/4.1.2/../../../../ba-elf/lib/ba2/libc.a(rand.o)
+ .stab          0x000003e4      0x180 /cygdrive/c/Jennic/Tools/ba-elf-ba2/bin/../lib/gcc/ba-elf/4.1.2/../../../../ba-elf/lib/ba2/libc.a(impure.o)
+                                0x2f4 (size before relaxing)
+ *(.stab.*)
+
+.comment        0x00000000      0x1d4
+ *(.comment*)
+ .comment       0x00000000       0x12 Router.o
+ .comment       0x00000012       0x12 App.o
+ .comment       0x00000024       0x12 Printf.o
+ .comment       0x00000036       0x12 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JenieTree.o)
+ .comment       0x00000048       0x12 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JPI.o)
+ .comment       0x0000005a       0x12 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(JPDM.o)
+ .comment       0x0000006c       0x12 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NetworkCoordRouter.o)
+ .comment       0x0000007e       0x12 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ProcessAndRoute.o)
+ .comment       0x00000090       0x12 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(NwkPktQueue.o)
+ .comment       0x000000a2       0x12 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(AppQueueApi.o)
+ .comment       0x000000b4       0x12 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(ccitt8.o)
+ .comment       0x000000c6       0x12 /cygdrive/c/Jennic/Components/Library/libJenieCR_JN514x.a(Interrupt.o)
+ .comment       0x000000d8       0x12 /cygdrive/c/Jennic/Chip/JN5148/Library/libMacPatch_JN5148.a(JN514x_MacPatch.o)
+ .comment       0x000000ea       0x12 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SystemPatch_JN5148.o)
+ .comment       0x000000fc       0x12 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_TimerPatch.o)
+ .comment       0x0000010e       0x12 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_TimerIntPatch.o)
+ .comment       0x00000120       0x12 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SiPatch48.o)
+ .comment       0x00000132       0x12 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_AnaloguePatch.o)
+ .comment       0x00000144       0x12 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_InitPatch.o)
+ .comment       0x00000156       0x12 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_FlashPatch_JN514x.o)
+ .comment       0x00000168       0x12 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_FifoPatch.o)
+ .comment       0x0000017a       0x12 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_DioPatch.o)
+ .comment       0x0000018c       0x12 /cygdrive/c/Jennic/Chip/JN5148/Library/libHWPatch_JN5148.a(AHI_SpiPatch.o)
+ .comment       0x0000019e       0x12 /cygdrive/c/Jennic/Platform/DK2/Library/libBoardLib_JN514x.a(Button.o)
+ .comment       0x000001b0       0x12 /cygdrive/c/Jennic/Tools/ba-elf-ba2/bin/../lib/gcc/ba-elf/4.1.2/../../../../ba-elf/lib/ba2/libc.a(rand.o)
+ .comment       0x000001c2       0x12 /cygdrive/c/Jennic/Tools/ba-elf-ba2/bin/../lib/gcc/ba-elf/4.1.2/../../../../ba-elf/lib/ba2/libc.a(impure.o)
+                0x00001cf4                _bss_len = (((_bss_end - _bss_beg) + 0x3) & 0xfffffffc)
+OUTPUT(Router_JN5148.elf elf32-ba)
+
+.stabstr        0x00000000     0x132d
+ .stabstr       0x00000000     0x132d /cygdrive/c/Jennic/Tools/ba-elf-ba2/bin/../lib/gcc/ba-elf/4.1.2/../../../../ba-elf/lib/ba2/libc.a(rand.o)
